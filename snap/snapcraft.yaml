@@ -1,0 +1,57 @@
+name: keycounts
+base: core22
+version: '0.1'
+summary: Track and report keypress counts
+description: |
+  This utility monitors all keyboard inputs attached to a Linux computer and
+  records the count of each time any keys are pressed. No timing information is
+  stored, nor order of key pressed, so it should not be possible to use to
+  recover any specific input from the stored data once it has been in use for a
+  while.
+  .
+  Use `keycounts.report` to report the results.
+  Use `keycounts.image > counts.svg` to generate an SVG of the results.
+
+grade: stable
+confinement: strict
+
+apps:
+  record:
+    command: record.sh
+    daemon: simple
+    restart-condition: always
+    plugs:
+      - raw-input
+
+  report:
+    command: report.sh
+
+  image:
+    command: image.sh
+
+parts:
+  keycounts:
+    plugin: make
+    source: .
+    build-packages:
+      - gcc
+    prime:
+      - usr/bin/keycounts
+      - usr/share/keycounts/*
+
+  scripts:
+    plugin: dump
+    source: snap/local/
+    prime:
+      - record.sh
+      - report.sh
+      - image.sh
+
+  layouts:
+    plugin: dump
+    source: keyboards/
+    organize:
+      '*.svg' : usr/share/keycounts/
+    prime:
+      - usr/share/keycounts/uk-header.svg
+      - usr/share/keycounts/uk-footer.svg

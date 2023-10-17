@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <style>
+	.txt { font-size:5.25415px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.437845;stroke-opacity:1 }
+	.tsp { fill:#000000;fill-opacity:1;stroke-width:0.437845 }
+	.box { fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1 }
+  .key_q { fill:#fee8c8 } /* 120 */
+.key_w { fill:#d7301f } /* 328 */
+.key_e { fill:#fdd49e } /* 142 */
+.key_r { fill:#ef6548 } /* 288 */
+.key_t { fill:#fee8c8 } /* 93 */
+.key_y { fill:#fee8c8 } /* 117 */
+.key_u { fill:#ef6548 } /* 272 */
+.key_i { fill:#ef6548 } /* 285 */
+.key_o { fill:#fee8c8 } /* 100 */
+.key_p { fill:#ffffff } /* 7 */
+.key_a { fill:#d7301f } /* 360 */
+.key_s { fill:#fdd49e } /* 147 */
+.key_d { fill:#fff7ec } /* 60 */
+.key_f { fill:#fee8c8 } /* 89 */
+.key_g { fill:#fee8c8 } /* 88 */
+.key_h { fill:#ef6548 } /* 297 */
+.key_j { fill:#ef6548 } /* 297 */
+.key_k { fill:#fdbb84 } /* 182 */
+.key_l { fill:#ffffff } /* 21 */
+.key_z { fill:#fff7ec } /* 72 */
+.key_x { fill:#fdd49e } /* 133 */
+.key_c { fill:#fee8c8 } /* 98 */
+.key_v { fill:#fdd49e } /* 169 */
+.key_b { fill:#fc8d59 } /* 230 */
+.key_n { fill:#fdd49e } /* 131 */
+.key_m { fill:#fff7ec } /* 30 */
+
+  </style>
+  <g id="layer1">
+    <rect class="box key_q" id="box_q" width="10" height="10" x="10" y="60" />
+    <text class="txt" x="15" y="65"><tspan class="tsp" x="15" y="65">Q</tspan></text>
+    <rect class="box key_w" id="box_w" width="10" height="10" x="21" y="60" />
+    <text class="txt" x="25" y="65" ><tspan class="tsp" x="25" y="65">W</tspan></text>
+    <rect class="box key_e" id="box_e" width="10" height="10" x="32" y="60" />
+    <text
+       xml:space="preserve"
+       class="txt"
+       x="33.819775"
+       y="65.428368"
+       id="text3209"><tspan
+         id="tspan3207"
+         class="tsp"
+         x="33.819775"
+         y="65.428368">E</tspan></text>
+    <rect class="box key_r" width="10" height="10" x="43" y="60" />
+    <text
+       xml:space="preserve"
+       class="txt"
+       x="44.614185"
+       y="65.428368"
+       id="text3215"><tspan
+         id="tspan3213"
+         class="tsp"
+         x="44.614185"
+         y="65.428368">R</tspan></text>
+    <rect class="box key_t" width="10" height="10" x="54" y="60" />
+    <text
+       xml:space="preserve"
+       class="txt"
+       x="55.4086"
+       y="65.428368"
+       id="text3221"><tspan
+         id="tspan3219"
+         class="tsp"
+         x="55.4086"
+         y="65.428368">T</tspan></text>
+    <rect class="box key_y" width="10" height="10" x="65" y="60" />
+    <text
+       xml:space="preserve"
+       class="txt"
+       x="66.203011"
+       y="65.428368"
+       id="text3227"><tspan
+         id="tspan3225"
+         class="tsp"
+         x="66.203011"
+         y="65.428368">Y</tspan></text>
+    <rect class="box key_u" width="10" height="10" x="76" y="60" />
+    <text
+       xml:space="preserve"
+       class="txt"
+       x="76.997429"
+       y="65.428368"
+       id="text3283"><tspan
+         id="tspan3281"
+         class="tsp"
+         x="76.997429"
+         y="65.428368">U</tspan></text>
+    <rect class="box key_i" width="10" height="10" x="87" y="60" />
+    <text
+       xml:space="preserve"
+       class="txt"
+       x="87.79184"
+       y="65.428368"
+       id="text3289"><tspan
+         id="tspan3287"
+         class="tsp"
+         x="87.79184"
+         y="65.428368">I</tspan></text>
+    <rect
+       class="box key_o"
+       id="rect3291"
+       width="10"
+       height="10"
+       x="98"
+       y="60" />
+    <text
+       xml:space="preserve"
+       class="txt"
+       x="98.586258"
+       y="65.428368"
+       id="text3295"><tspan
+         id="tspan3293"
+         class="tsp"
+         x="98.586258"
+         y="65.428368">O</tspan></text>
+    <rect
+       class="box key_p"
+       id="rect3297"
+       width="10"
+       height="10"
+       x="109"
+       y="60" />
+    <text
+       xml:space="preserve"
+       class="txt"
+       x="109.38068"
+       y="65.428368"
+       id="text3301"><tspan
+         id="tspan3299"
+         class="tsp"
+         x="109.38068"
+         y="65.428368">P</tspan></text>
+    <rect
+       class="box key_a"
+       width="10"
+       height="10"
+       x="15"
+       y="71" />
+    <text
+       xml:space="preserve"
+       class="txt"
+       x="17.495861"
+       y="75.958191"
+       id="text3319"><tspan
+         id="tspan3317"
+         class="tsp"
+         x="17.495861"
+         y="75.958191">A</tspan></text>
+    <rect
+       class="box key_s"
+       id="rect3321"
+       width="10"
+       height="10"
+       x="26"
+       y="71" />
+    <text
+       xml:space="preserve"
+       class="txt"
+       x="28.290276"
+       y="75.958191"
+       id="text3325"><tspan
+         id="tspan3323"
+         class="tsp"
+         x="28.290276"
+         y="75.958191">S</tspan></text>
+    <rect
+       class="box key_d"
+       id="rect3327"
+       width="10"
+       height="10"
+       x="37"
+       y="71" />
+    <text
+       xml:space="preserve"
+       class="txt"
+       x="39.08469"
+       y="75.958191"
+       id="text3331"><tspan
+         id="tspan3329"
+         class="tsp"
+         x="39.08469"
+         y="75.958191">D</tspan></text>
+    <rect
+       class="box key_f"
+       id="rect3333"
+       width="10"
+       height="10"
+       x="48"
+       y="71" />
+    <text
+       xml:space="preserve"
+       class="txt"
+       x="49.879101"
+       y="75.958191"
+       id="text3337"><tspan
+         id="tspan3335"
+         class="tsp"
+         x="49.879101"
+         y="75.958191">F</tspan></text>
+    <rect
+       class="box key_g"
+       id="rect3339"
+       width="10"
+       height="10"
+       x="59"
+       y="71" />
+    <text
+       xml:space="preserve"
+       class="txt"
+       x="60.673515"
+       y="75.958191"
+       id="text3343"><tspan
+         id="tspan3341"
+         class="tsp"
+         x="60.673515"
+         y="75.958191">G</tspan></text>
+    <rect
+       class="box key_h"
+       id="rect3345"
+       width="10"
+       height="10"
+       x="70"
+       y="71" />
+    <text
+       xml:space="preserve"
+       class="txt"
+       x="71.467926"
+       y="75.958191"
+       id="text3349"><tspan
+         id="tspan3347"
+         class="tsp"
+         x="71.467926"
+         y="75.958191">H</tspan></text>
+    <rect
+       class="box key_j"
+       id="rect3351"
+       width="10"
+       height="10"
+       x="81"
+       y="71" />
+    <text
+       xml:space="preserve"
+       class="txt"
+       x="82.262344"
+       y="75.958191"
+       id="text3355"><tspan
+         id="tspan3353"
+         class="tsp"
+         x="82.262344"
+         y="75.958191">J</tspan></text>
+    <rect
+       class="box key_k"
+       id="rect3357"
+       width="10"
+       height="10"
+       x="92"
+       y="71" />
+    <text
+       xml:space="preserve"
+       class="txt"
+       x="93.056747"
+       y="75.958191"
+       id="text3361"><tspan
+         id="tspan3359"
+         class="tsp"
+         x="93.056747"
+         y="75.958191">K</tspan></text>
+    <rect
+       class="box key_l"
+       id="rect3363"
+       width="10"
+       height="10"
+       x="103"
+       y="71" />
+    <text
+       xml:space="preserve"
+       class="txt"
+       x="103.85117"
+       y="75.958191"
+       id="text3367"><tspan
+         id="tspan3365"
+         class="tsp"
+         x="103.85117"
+         y="75.958191">L</tspan></text>
+    <rect
+       class="box key_z"
+       id="rect3375"
+       width="10"
+       height="10"
+       x="20"
+       y="82" />
+    <text
+       xml:space="preserve"
+       class="txt"
+       x="28.290279"
+       y="86.488022"
+       id="text3379"><tspan
+         id="tspan3377"
+         class="tsp"
+         x="28.290279"
+         y="86.488022">Z</tspan></text>
+    <rect
+       class="box key_x"
+       id="rect3381"
+       width="10"
+       height="10"
+       x="31"
+       y="82" />
+    <text
+       xml:space="preserve"
+       class="txt"
+       x="39.084694"
+       y="86.488022"
+       id="text3385"><tspan
+         id="tspan3383"
+         class="tsp"
+         x="39.084694"
+         y="86.488022">X</tspan></text>
+    <rect
+       class="box key_c"
+       id="rect3387"
+       width="10"
+       height="10"
+       x="42"
+       y="82" />
+    <text
+       xml:space="preserve"
+       class="txt"
+       x="49.879108"
+       y="86.488022"
+       id="text3391"><tspan
+         id="tspan3389"
+         class="tsp"
+         x="49.879108"
+         y="86.488022">C</tspan></text>
+    <rect
+       class="box key_v"
+       id="rect3393"
+       width="10"
+       height="10"
+       x="53"
+       y="82" />
+    <text
+       xml:space="preserve"
+       class="txt"
+       x="60.673519"
+       y="86.488022"
+       id="text3397"><tspan
+         id="tspan3395"
+         class="tsp"
+         x="60.673519"
+         y="86.488022">V</tspan></text>
+    <rect
+       class="box key_b"
+       id="rect3399"
+       width="10"
+       height="10"
+       x="64"
+       y="82" />
+    <text
+       xml:space="preserve"
+       class="txt"
+       x="71.467934"
+       y="86.488022"
+       id="text3403"><tspan
+         id="tspan3401"
+         class="tsp"
+         x="71.467934"
+         y="86.488022">B</tspan></text>
+    <rect
+       class="box key_n"
+       id="rect3405"
+       width="10"
+       height="10"
+       x="75"
+       y="82" />
+    <text
+       xml:space="preserve"
+       class="txt"
+       x="82.262344"
+       y="86.488022"
+       id="text3409"><tspan
+         id="tspan3407"
+         class="tsp"
+         x="82.262344"
+         y="86.488022">N</tspan></text>
+    <rect
+       class="box key_m"
+       id="rect3411"
+       width="10"
+       height="10"
+       x="86"
+       y="82" />
+    <text
+       xml:space="preserve"
+       class="txt"
+       x="93.056763"
+       y="86.488022"
+       id="text3415"><tspan
+         id="tspan3413"
+         class="tsp"
+         x="93.056763"
+         y="86.488022">M</tspan></text>
+  </g>
+</svg>

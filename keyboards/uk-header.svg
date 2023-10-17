@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="534.47302mm" height="239.062mm" viewBox="0 0 534.47304 239.06201" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+  <style>
+	.txt { font-size:4px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.437845;stroke-opacity:1 }
+	.txtsm { font-size:3px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.437845;stroke-opacity:1 }
+	.tsp { fill:#000000;fill-opacity:1;stroke-width:0.437845 }
+	.box { fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1 }
+	.key_alt_LEFTALT { fill:#92e4fd !important; }
+	.key_alt_RIGHTALT { fill:#92e4fd !important; }
+	.key_ctrl_LEFTCTRL { fill:#92e4fd !important; }
+	.key_ctrl_RIGHTCTRL { fill:#92e4fd !important; }
+	.key_ctrl_shift_LEFTCTRL { fill:#92e4fd !important; }
+	.key_ctrl_shift_LEFTSHIFT { fill:#92e4fd !important; }
+	.key_ctrl_shift_RIGHTCTRL { fill:#92e4fd !important; }
+	.key_ctrl_shift_RIGHTSHIFT { fill:#92e4fd !important; }
+	.key_meta_LEFTMETA { fill:#92e4fd !important; }
+	.key_meta_RIGHTMETA { fill:#92e4fd !important; }
+	.key_shift_LEFTSHIFT { fill:#92e4fd !important; }
+	.key_shift_RIGHTSHIFT { fill:#92e4fd !important; }

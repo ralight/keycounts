@@ -1,0 +1,11 @@
+[Unit]
+Description=Keyboard keypress counts
+After=network.target
+Wants=network.target
+
+[Service]
+ExecStart=/usr/bin/keycounts record
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target

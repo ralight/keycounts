@@ -1,0 +1,1312 @@
+  </style>
+  <g id="g1943" transform="translate(-2.62e-4,2.444e-4)">
+    <g id="g19998">
+      <path class="box key_RETURN" d="m 153.0825,30.578134 v 9.999906 h 5.04982 v 10.999845 h 9.9999 V 40.57804 30.578134 Z" />
+      <rect class="box key_0" id="box_0" width="10" height="10" x="115.13238" y="19.578281" />
+      <rect class="box key_0" width="10" height="10" x="115.13238" y="19.578281" />
+      <rect class="box key_1" id="box_1" width="10" height="10" x="16.132374" y="19.578281" />
+      <rect class="box key_1" width="10" height="10" x="16.132374" y="19.578281" />
+      <rect class="box key_102ND" width="10" height="10" x="20.132376" y="52.577991" />
+      <rect class="box key_2" width="10" height="10" x="27.132376" y="19.578281" id="box_2" />
+      <rect class="box key_3" width="10" height="10" x="38.132374" y="19.578281" id="box_3" />
+      <rect class="box key_4" width="10" height="10" x="49.13237" y="19.578281" id="box_4" />
+      <rect class="box key_5" width="10" height="10" x="60.13237" y="19.578281" id="box_5" />
+      <rect class="box key_6" width="10" height="10" x="71.13237" y="19.578281" id="box_6" />
+      <rect class="box key_7" width="10" height="10" x="82.132378" y="19.578281" id="box_7" />
+      <rect class="box key_8" width="10" height="10" x="93.132378" y="19.578281" id="box_8" />
+      <rect class="box key_9" width="10" height="10" x="104.13238" y="19.578281" id="box_9" />
+      <rect class="box key_A" width="10" height="10" x="26.132376" y="41.577991" id="box_a" />
+      <rect class="box key_APOSTROPHE" width="10" height="10" x="136.13239" y="41.577991" id="box_apostrophe" />
+      <rect class="box key_B" width="10" height="10" x="75.132378" y="52.577988" id="box_b" />
+      <rect class="box key_BACKSLASH" width="10" height="10" x="147.13239" y="41.577991" id="box_backslash" />
+      <rect class="box key_BACKSPACE" width="20.153692" height="10" x="147.97853" y="19.578281" id="box_backspace" />
+      <rect class="box key_C" width="10" height="10" x="53.13237" y="52.577988" id="box_c" />
+      <rect class="box key_CAPSLOCK" width="19.932348" height="10" x="5.1323733" y="41.577702" id="box_capslock" />
+      <rect class="box key_COMMA" width="10" height="10" x="108.3306" y="52.577988" id="box_comma" />
+      <rect class="box key_D" width="10" height="10" x="48.13237" y="41.577991" id="box_d" />
+      <rect class="box key_DELETE" width="10" height="10" x="175.61017" y="30.577993" id="box_delete" />
+      <rect class="box key_DOT" width="10" height="10" x="119.63737" y="52.577988" id="box_dot" />
+      <rect class="box key_DOWN" width="10" height="10" x="186.61017" y="63.525158" id="box_down" />
+      <rect class="box key_E" id="box_e" width="10" height="10" x="43.132374" y="30.577993" />
+      <rect class="box key_END" width="10" height="10" x="186.61017" y="30.577993" id="box_end" />
+      <rect class="box key_EQUAL" width="10" height="10" x="137.13239" y="19.578281" id="box_equal" />
+      <rect class="box key_ESC" width="10" height="10" x="5.1323733" y="5.3298907" id="box_esc" />
+      <rect class="box key_F" width="10" height="10" x="59.13237" y="41.577991" id="box_f" />
+      <rect class="box key_F1" width="10" height="10" x="18.361586" y="5.3298907" id="box_f1" />
+      <rect class="box key_F10" width="10" height="10" x="136.00758" y="5.3298907" id="box_f10" />
+      <rect class="box key_F11" width="10" height="10" x="147.00035" y="5.3298907" id="box_f11" />
+      <rect class="box key_F12" width="10" height="10" x="158.13222" y="5.3298907" id="box_f12" />
+      <rect class="box key_F2" width="10" height="10" x="29.361586" y="5.3298907" id="box_f2" />
+      <rect class="box key_F3" width="10" height="10" x="40.536148" y="5.3298907" id="box_f3" />
+      <rect class="box key_F4" width="10" height="10" x="51.536148" y="5.3298907" id="box_f4" />
+      <rect class="box key_F5" width="10" height="10" x="71.825439" y="5.3298907" id="box_f5" />
+      <rect class="box key_F6" width="10" height="10" x="82.825439" y="5.3298907" id="box_f6" />
+      <rect class="box key_F7" width="10" height="10" x="94" y="5.3298907" id="box_f7" />
+      <rect class="box key_F8" width="10" height="10" x="105" y="5.3298907" id="box_f8" />
+      <rect class="box key_F9" width="10" height="10" x="124.8258" y="5.3298907" id="box_f9" />
+      <rect class="box key_G" width="10" height="10" x="70.13237" y="41.577991" id="box_g" />
+      <rect class="box key_GRAVE" width="10" height="10" x="5.1323733" y="19.578281" id="box_grave" />
+      <rect class="box key_H" width="10" height="10" x="81.132378" y="41.577991" id="box_h" />
+      <rect class="box key_HOME" width="10" height="10" x="186.61017" y="19.657095" id="box_home" />
+      <rect class="box key_I" width="10" height="10" x="98.132378" y="30.577993" id="box_i" />
+      <rect class="box key_INSERT" width="10" height="10" x="175.61017" y="19.630823" id="box_insert" />
+      <rect class="box key_J" width="10" height="10" x="92.132378" y="41.577991" id="box_j" />
+      <rect class="box key_K" width="10" height="10" x="103.13238" y="41.577991" id="box_k" />
+      <rect class="box key_KP0" width="21.083063" height="10" x="216.14363" y="63.419502" id="box_kp0" />
+      <rect class="box key_KP1" width="10" height="10" x="216.14363" y="52.472332" id="box_kp1" />
+      <rect class="box key_KP2" width="10" height="10" x="227.14363" y="52.472332" id="box_kp2" />
+      <rect class="box key_KP3" width="10" height="10" x="238.14363" y="52.472332" id="box_kp3" />
+      <rect class="box key_KP4" width="10" height="10" x="216.14363" y="41.525162" id="box_kp4" />
+      <rect class="box key_KP5" width="10" height="10" x="227.14363" y="41.525162" id="box_kp5" />
+      <rect class="box key_KP6" width="10" height="10" x="238.14363" y="41.525162" id="box_kp6" />
+      <rect class="box key_KP7" width="10" height="10" x="216.14363" y="30.577993" id="box_kp7" />
+      <rect class="box key_KP8" width="10" height="10" x="227.14363" y="30.577993" id="box_kp8" />
+      <rect class="box key_KP9" width="10" height="10" x="238.14363" y="30.577993" id="box_kp9" />
+      <rect class="box key_KPASTERISK" width="10" height="10" x="238.14363" y="19.630823" id="box_kpasterisk" />
+      <rect class="box key_KPDOT" width="10" height="10" x="238.14363" y="63.419502" id="box_kpdot" />
+      <rect class="box key_KPENTER" width="10" height="20.947174" x="249.14363" y="52.472332" id="box_kpenter" />
+      <rect class="box key_KPMINUS" width="10" height="10" x="249.14363" y="19.630823" id="box_kpminus" />
+      <rect class="box key_KPPLUS" width="10" height="20.94717" x="249.14363" y="30.577993" id="box_kpplus" />
+      <rect class="box key_KPSLASH" width="10" height="10" x="227.14363" y="19.630823" id="box_kpslash" />
+      <rect class="box key_L" width="10" height="10" x="114.13238" y="41.577991" id="box_l" />
+      <rect class="box key_LEFT" width="10" height="10" x="175.61017" y="63.525158" id="box_left" />
+      <rect class="box key_LEFTALT" width="13.831776" height="10" x="36.830956" y="63.578281" id="box_leftalt" />
+      <rect class="box key_LEFTBRACE" width="10" height="10" x="131.13239" y="30.577995" id="box_leftbrace" />
+      <rect class="box key_LEFTCTRL" width="15.779481" height="10" x="5.1323733" y="63.578281" id="box_leftctrl" />
+      <rect class="box key_LEFTMETA" width="13.831776" height="10" x="21.955517" y="63.578281" />
+      <rect class="box key_LEFTSHIFT" width="13.831776" height="10" x="5.1323733" y="52.577991" />
+      <rect class="box key_M" width="10" height="10" x="96.93705" y="52.612141" id="box_m" />
+      <rect class="box key_MENU" width="13.831776" height="10" x="139.34879" y="63.578281" id="box_menu" />
+      <rect class="box key_MINUS" width="10" height="10" x="126.13238" y="19.578281" id="box_minus" />
+      <rect class="box key_N" width="10" height="10" x="86.132378" y="52.577988" id="box_n" />
+      <rect class="box key_NUMLOCK" width="10" height="10" x="216.14363" y="19.630823" id="box_numlock" />
+      <rect class="box key_O" width="10" height="10" x="109.13238" y="30.577993" id="box_o" />
+      <rect class="box key_P" width="10" height="10" x="120.13238" y="30.577993" id="box_p" />
+      <rect class="box key_PAGEDOWN" width="10.000003" height="10.000003" x="197.61017" y="30.577991" id="box_pagedown" />
+      <rect class="box key_PAGEUP" width="10" height="10" x="197.61017" y="19.630823" id="box_pageup" />
+      <rect class="box key_PAUSE" width="10" height="10" x="197.61017" y="5.1322889" id="box_pause" />
+      <rect class="box key_Q" width="10" height="10" x="21.132374" y="30.577993" />
+      <rect class="box key_R" width="10" height="10" x="54.13237" y="30.577993" id="box_r" />
+      <rect class="box key_RIGHT" width="10" height="10" x="197.61017" y="63.525158" id="box_right" />
+      <rect class="box key_RIGHTALT" width="15.779481" height="10" x="105.70966" y="63.578281" id="box_rightalt" />
+      <rect class="box key_RIGHTBRACE" width="10" height="10" x="142.13239" y="30.577995" id="box_rightbrace" />
+      <rect class="box key_RIGHTCTRL" width="13.831776" height="10" x="154.22423" y="63.578281" id="box_rightctrl" />
+      <rect class="box key_RIGHTMETA" width="15.779481" height="10" x="122.52563" y="63.578281" />
+      <rect class="box key_RIGHTSHIFT" width="25.426792" height="10" x="142.70541" y="52.577988" id="box_rightshift" />
+      <rect class="box key_S" width="10" height="10" x="37.132374" y="41.577991" id="box_s" />
+      <rect class="box key_SCROLLLOCK" width="10" height="10" x="186.61017" y="5.1322889" id="box_scrolllock" />
+      <rect class="box key_SEMICOLON" width="10" height="10" x="125.13238" y="41.577991" id="box_semicolon" />
+      <rect class="box key_SLASH" width="10" height="10" x="131.45067" y="52.577988" id="box_slash" />
+      <rect class="box key_SPACE" width="52.925739" height="10" x="51.70639" y="63.578281" id="box_space" />
+      <rect class="box key_SYSRQ" width="10" height="10" x="175.61017" y="5.1322889" id="box_sysrq" />
+      <rect class="box key_T" width="10" height="10" x="65.132378" y="30.577993" id="box_T" />
+      <rect class="box key_TAB" width="15.05681" height="10" x="5.1323733" y="30.577993" id="box_tab" />
+      <rect class="box key_U" width="10" height="10" x="87.132378" y="30.577993" id="box_u" />
+      <rect class="box key_UP" width="10" height="10" x="186.61017" y="52.577988" id="box_up" />
+      <rect class="box key_V" width="10" height="10" x="64.132378" y="52.577988" id="box_v" />
+      <rect class="box key_W" id="box_w" width="10" height="10" x="32.132374" y="30.577993" />
+      <rect class="box key_X" width="10" height="10" x="42.132374" y="52.577988" id="box_x" />
+      <rect class="box key_Y" width="10" height="10" x="76.132378" y="30.577993" id="box_y" />
+      <rect class="box key_Z" width="10" height="10" x="31.132376" y="52.577988" id="box_z" />
+      <text class="txt" x="100.12305" y="59.005989">m</text>
+      <text class="txt" x="102.45638" y="37.005993">i</text>
+      <text class="txt" x="106.70038" y="48.005993">k</text>
+      <text class="txt" x="107.724" y="11.757891">F8</text>
+      <text class="txt" x="107.99238" y="26.006281">9</text>
+      <text class="txt" x="112.57038" y="37.007992">0</text>
+      <text class="txt" x="112.86459" y="58.714489">,</text>
+      <text class="txt" x="117.94038" y="48.005703">L</text>
+      <text class="txt" x="118.98838" y="26.008282">0</text>
+      <text class="txt" x="123.83038" y="37.005993">P</text>
+      <text class="txt" x="124.10136" y="58.734489">.</text>
+      <text class="txt" x="127.5538" y="11.757891">F9</text>
+      <text class="txt" x="129.68237" y="47.419701">;</text>
+      <text class="txt" x="130.48837" y="25.650282">-</text>
+      <text class="txt" x="135.36438" y="36.689995">[</text>
+      <text class="txt" x="135.70667" y="59.005989">/</text>
+      <text class="txt" x="137.58559" y="11.759891">F10</text>
+      <text class="txt" x="140.68239" y="48.005703">'</text>
+      <text class="txt" x="140.99239" y="25.986282">=</text>
+      <text class="txt" x="146.58438" y="36.689995">]</text>
+      <text class="txt" x="148.91435" y="11.757891">F11</text>
+      <text class="txt" x="150.84239" y="48.005993">#</text>
+      <text class="txt" x="159.71622" y="11.777891">F12</text>
+      <text class="txt" x="178.62016" y="70.045158">←</text>
+      <text class="txt" x="189.61017" y="59.107986">↑</text>
+      <text class="txt" x="189.61017" y="70.035156">↓</text>
+      <text class="txt" x="20.244373" y="26.006281">1</text>
+      <text class="txt" x="200.60017" y="70.045158">→</text>
+      <text class="txt" x="21.419588" y="11.757891">F1</text>
+      <text class="txt" x="219.99763" y="47.961163">4</text>
+      <text class="txt" x="219.99963" y="69.849503">0</text>
+      <text class="txt" x="220.00963" y="37.005993">7</text>
+      <text class="txt" x="220.25563" y="58.900333">1</text>
+      <text class="txt" x="230.98763" y="47.933163">5</text>
+      <text class="txt" x="231.00163" y="37.005993">8</text>
+      <text class="txt" x="231.00763" y="58.920334">2</text>
+      <text class="txt" x="231.39963" y="26.058823">/</text>
+      <text class="txt" x="24.386375" y="59.005989">\</text>
+      <text class="txt" x="24.570374" y="37.049992">q</text>
+      <text class="txt" x="241.98363" y="47.953163">6</text>
+      <text class="txt" x="242.00363" y="37.005993">9</text>
+      <text class="txt" x="242.02364" y="58.900333">3</text>
+      <text class="txt" x="242.04562" y="26.770823">*</text>
+      <text class="txt" x="242.60764" y="69.833504">.</text>
+      <text class="txt" x="253.00363" y="42.463577">+</text>
+      <text class="txt" x="253.49963" y="25.702824">-</text>
+      <text class="txt" x="29.856377" y="48.0117">a</text>
+      <text class="txt" x="30.996376" y="26.026281">2</text>
+      <text class="txt" x="32.089588" y="11.777891">F2</text>
+      <text class="txt" x="34.990376" y="59.005989">z</text>
+      <text class="txt" x="35.274372" y="37.005993">w</text>
+      <text class="txt" x="41.026375" y="48.005703">s</text>
+      <text class="txt" x="42.012375" y="26.006281">3</text>
+      <text class="txt" x="43.274151" y="11.757891">F3</text>
+      <text class="txt" x="45.960373" y="59.005989">x</text>
+      <text class="txt" x="46.946373" y="37.005993">e</text>
+      <text class="txt" x="51.600368" y="48.005703">d</text>
+      <text class="txt" x="52.98637" y="26.014282">4</text>
+      <text class="txt" x="54.20015" y="11.765891">F4</text>
+      <text class="txt" x="56.808369" y="59.005989">c</text>
+      <text class="txt" x="57.724369" y="37.005993">r</text>
+      <text class="txt" x="6.9743738" y="11.737891">Esc</text>
+      <text class="txt" x="62.946369" y="48.005703">f</text>
+      <text class="txt" x="63.976372" y="25.986282">5</text>
+      <text class="txt" x="67.932381" y="59.005989">v</text>
+      <text class="txt" x="69.022377" y="37.005993">t</text>
+      <text class="txt" x="73.70237" y="48.005703">g</text>
+      <text class="txt" x="74.563438" y="11.737891">F5</text>
+      <text class="txt" x="74.972366" y="26.006281">6</text>
+      <text class="txt" x="78.746376" y="59.005989">b</text>
+      <text class="txt" x="80.000374" y="37.005993">y</text>
+      <text class="txt" x="84.652374" y="48.005703">h</text>
+      <text class="txt" x="85.543442" y="11.757891">F6</text>
+      <text class="txt" x="85.998375" y="26.006281">7</text>
+      <text class="txt" x="89.612381" y="59.005989">n</text>
+      <text class="txt" x="9.394166" y="26.454014">`</text>
+      <text class="txt" x="90.672379" y="36.985992">u</text>
+      <text class="txt" x="96.722" y="11.757891">F7</text>
+      <text class="txt" x="96.859161" y="48.005703">j</text>
+      <text class="txt" x="96.990379" y="26.006281">8</text>
+      <text class="txtsm" x="10.250278" y="36.702995">Tab</text>
+      <text class="txtsm" x="10.562114" y="69.703285">Ctrl</text>
+      <text class="txtsm" x="109.6334" y="69.703285">Alt Gr</text>
+      <text class="txtsm" x="126.80187" y="69.634285">Meta</text>
+      <text class="txtsm" x="142.18617" y="69.634285">Menu</text>
+      <text class="txtsm" x="150.49538" y="25.358282">BackSpace</text>
+      <text class="txtsm" x="152.18031" y="58.710487">Shift</text>
+      <text class="txtsm" x="155.78937" y="36.357994">Return</text>
+      <text class="txtsm" x="158.68011" y="69.703285">Ctrl</text>
+      <text class="txtsm" x="176.90218" y="11.203289">PrtSc</text>
+      <text class="txtsm" x="178.26418" y="36.702995">Del</text>
+      <text class="txtsm" x="178.46367" y="25.686823">Ins</text>
+      <text class="txtsm" x="187.27367" y="25.713095">Home</text>
+      <text class="txtsm" x="188.90868" y="36.702995">End</text>
+      <text class="txtsm" x="198.30067" y="11.188289">Pause</text>
+      <text class="txtsm" x="198.69817" y="25.341824">PgUp</text>
+      <text class="txtsm" x="198.73418" y="36.288994">PgDn</text>
+      <text class="txtsm" x="25.257906" y="69.634285">Meta</text>
+      <text class="txtsm" x="250.25264" y="64.001923">Enter</text>
+      <text class="txtsm" x="41.892845" y="69.703285">Alt</text>
+      <text class="txtsm" x="8.3755484" y="47.3577">CapsLock</text>
+      <text class="txtsm" x="8.809763" y="58.710487">Shift</text>
+      <g transform="translate(-3.3e-6,0.70337659)">
+        <text class="txtsm" x="187.84666" y="9.0568609">Scroll</text>
+        <text class="txtsm" x="188.26367" y="12.050963">Lock</text>
+      </g>
+      <g transform="translate(-3.3e-6,-2.138e-4)">
+        <text class="txtsm" x="217.65013" y="24.258986">Num</text>
+        <text class="txtsm" x="217.79713" y="27.253088">Lock</text>
+      </g>
+    </g>
+  </g>
+  <g id="g_ctrl" transform="translate(-2.62e-4,2.444e-4)">
+    <path class="box key_ctrl_RETURN" d="m 153.0825,109.69157 v 9.9999 h 5.04982 v 10.99985 h 9.9999 v -10.99985 -9.9999 z" />
+    <rect class="box key_ctrl_0" width="10" height="10" x="115.13238" y="98.691719" />
+    <rect class="box key_ctrl_1" width="10" height="10" x="16.132374" y="98.691719" />
+    <rect class="box key_ctrl_102ND" width="10" height="10" x="20.132376" y="131.69142" />
+    <rect class="box key_ctrl_2" width="10" height="10" x="27.132376" y="98.691719" />
+    <rect class="box key_ctrl_3" width="10" height="10" x="38.132374" y="98.691719" />
+    <rect class="box key_ctrl_4" width="10" height="10" x="49.13237" y="98.691719" />
+    <rect class="box key_ctrl_5" width="10" height="10" x="60.13237" y="98.691719" />
+    <rect class="box key_ctrl_6" width="10" height="10" x="71.13237" y="98.691719" />
+    <rect class="box key_ctrl_7" width="10" height="10" x="82.132378" y="98.691719" />
+    <rect class="box key_ctrl_8" width="10" height="10" x="93.132378" y="98.691719" />
+    <rect class="box key_ctrl_9" width="10" height="10" x="104.13238" y="98.691719" />
+    <rect class="box key_ctrl_A" width="10" height="10" x="26.132376" y="120.69143" />
+    <rect class="box key_ctrl_APOSTROPHE" width="10" height="10" x="136.13239" y="120.69143" />
+    <rect class="box key_ctrl_B" width="10" height="10" x="75.132378" y="131.69142" />
+    <rect class="box key_ctrl_BACKSLASH" width="10" height="10" x="147.13239" y="120.69143" />
+    <rect class="box key_ctrl_BACKSPACE" width="20.153692" height="10" x="147.97853" y="98.691719" />
+    <rect class="box key_ctrl_C" width="10" height="10" x="53.13237" y="131.69142" />
+    <rect class="box key_ctrl_CAPSLOCK" width="19.932348" height="10" x="5.1323733" y="120.69114" />
+    <rect class="box key_ctrl_COMMA" width="10" height="10" x="108.3306" y="131.69142" />
+    <rect class="box key_ctrl_D" width="10" height="10" x="48.13237" y="120.69143" />
+    <rect class="box key_ctrl_DELETE" width="10" height="10" x="175.61017" y="109.69143" />
+    <rect class="box key_ctrl_DOT" width="10" height="10" x="119.63737" y="131.69142" />
+    <rect class="box key_ctrl_DOWN" width="10" height="10" x="186.61017" y="142.6386" />
+    <rect class="box key_ctrl_E" width="10" height="10" x="43.132374" y="109.69143" />
+    <rect class="box key_ctrl_END" width="10" height="10" x="186.61017" y="109.69143" />
+    <rect class="box key_ctrl_EQUAL" width="10" height="10" x="137.13239" y="98.691719" />
+    <rect class="box key_ctrl_ESC" width="10" height="10" x="5.1323733" y="84.443329" />
+    <rect class="box key_ctrl_F" width="10" height="10" x="59.13237" y="120.69143" />
+    <rect class="box key_ctrl_F1" width="10" height="10" x="18.361586" y="84.443329" />
+    <rect class="box key_ctrl_F10" width="10" height="10" x="136.00758" y="84.443329" />
+    <rect class="box key_ctrl_F11" width="10" height="10" x="147.00035" y="84.443329" />
+    <rect class="box key_ctrl_F12" width="10" height="10" x="158.13222" y="84.443329" />
+    <rect class="box key_ctrl_F2" width="10" height="10" x="29.361586" y="84.443329" />
+    <rect class="box key_ctrl_F3" width="10" height="10" x="40.536148" y="84.443329" />
+    <rect class="box key_ctrl_F4" width="10" height="10" x="51.536148" y="84.443329" />
+    <rect class="box key_ctrl_F5" width="10" height="10" x="71.825439" y="84.443329" />
+    <rect class="box key_ctrl_F6" width="10" height="10" x="82.825439" y="84.443329" />
+    <rect class="box key_ctrl_F7" width="10" height="10" x="94" y="84.443329" />
+    <rect class="box key_ctrl_F8" width="10" height="10" x="105" y="84.443329" />
+    <rect class="box key_ctrl_F9" width="10" height="10" x="124.8258" y="84.443329" />
+    <rect class="box key_ctrl_G" width="10" height="10" x="70.13237" y="120.69143" />
+    <rect class="box key_ctrl_GRAVE" width="10" height="10" x="5.1323733" y="98.691719" />
+    <rect class="box key_ctrl_H" width="10" height="10" x="81.132378" y="120.69143" />
+    <rect class="box key_ctrl_HOME" width="10" height="10" x="186.61017" y="98.770531" />
+    <rect class="box key_ctrl_I" width="10" height="10" x="98.132378" y="109.69143" />
+    <rect class="box key_ctrl_INSERT" width="10" height="10" x="175.61017" y="98.744255" />
+    <rect class="box key_ctrl_J" width="10" height="10" x="92.132378" y="120.69143" />
+    <rect class="box key_ctrl_K" width="10" height="10" x="103.13238" y="120.69143" />
+    <rect class="box key_ctrl_KP0" width="21.083063" height="10" x="216.14363" y="142.53294" />
+    <rect class="box key_ctrl_KP1" width="10" height="10" x="216.14363" y="131.58577" />
+    <rect class="box key_ctrl_KP2" width="10" height="10" x="227.14363" y="131.58577" />
+    <rect class="box key_ctrl_KP3" width="10" height="10" x="238.14363" y="131.58577" />
+    <rect class="box key_ctrl_KP4" width="10" height="10" x="216.14363" y="120.6386" />
+    <rect class="box key_ctrl_KP5" width="10" height="10" x="227.14363" y="120.6386" />
+    <rect class="box key_ctrl_KP6" width="10" height="10" x="238.14363" y="120.6386" />
+    <rect class="box key_ctrl_KP7" width="10" height="10" x="216.14363" y="109.69143" />
+    <rect class="box key_ctrl_KP8" width="10" height="10" x="227.14363" y="109.69143" />
+    <rect class="box key_ctrl_KP9" width="10" height="10" x="238.14363" y="109.69143" />
+    <rect class="box key_ctrl_KPASTERISK" width="10" height="10" x="238.14363" y="98.744255" />
+    <rect class="box key_ctrl_KPDOT" width="10" height="10" x="238.14363" y="142.53294" />
+    <rect class="box key_ctrl_KPENTER" width="10" height="20.947174" x="249.14363" y="131.58577" />
+    <rect class="box key_ctrl_KPMINUS" width="10" height="10" x="249.14363" y="98.744255" />
+    <rect class="box key_ctrl_KPPLUS" width="10" height="20.94717" x="249.14363" y="109.69143" />
+    <rect class="box key_ctrl_KPSLASH" width="10" height="10" x="227.14363" y="98.744255" />
+    <rect class="box key_ctrl_L" width="10" height="10" x="114.13238" y="120.69143" />
+    <rect class="box key_ctrl_LEFT" width="10" height="10" x="175.61017" y="142.6386" />
+    <rect class="box key_ctrl_LEFTALT" width="13.831776" height="10" x="36.830956" y="142.69171" />
+    <rect class="box key_ctrl_LEFTBRACE" width="10" height="10" x="131.13239" y="109.69143" />
+    <rect class="box key_ctrl_LEFTCTRL" width="15.779481" height="10" x="5.1323733" y="142.69171" />
+    <rect class="box key_ctrl_LEFTMETA" width="13.831776" height="10" x="21.955517" y="142.69171" />
+    <rect class="box key_ctrl_LEFTSHIFT" width="13.831776" height="10" x="5.1323733" y="131.69142" />
+    <rect class="box key_ctrl_M" width="10" height="10" x="96.93705" y="131.72557" />
+    <rect class="box key_ctrl_MENU" width="13.831776" height="10" x="139.34879" y="142.69171" />
+    <rect class="box key_ctrl_MINUS" width="10" height="10" x="126.13238" y="98.691719" />
+    <rect class="box key_ctrl_N" width="10" height="10" x="86.132378" y="131.69142" />
+    <rect class="box key_ctrl_NUMLOCK" width="10" height="10" x="216.14363" y="98.744255" />
+    <rect class="box key_ctrl_O" width="10" height="10" x="109.13238" y="109.69143" />
+    <rect class="box key_ctrl_P" width="10" height="10" x="120.13238" y="109.69143" />
+    <rect class="box key_ctrl_PAGEDOWN" width="10.000003" height="10.000003" x="197.61017" y="109.69143" />
+    <rect class="box key_ctrl_PAGEUP" width="10" height="10" x="197.61017" y="98.744255" />
+    <rect class="box key_ctrl_PAUSE" width="10" height="10" x="197.61017" y="84.24572" />
+    <rect class="box key_ctrl_Q" width="10" height="10" x="21.132374" y="109.69143" />
+    <rect class="box key_ctrl_R" width="10" height="10" x="54.13237" y="109.69143" />
+    <rect class="box key_ctrl_RIGHT" width="10" height="10" x="197.61017" y="142.6386" />
+    <rect class="box key_ctrl_RIGHTALT" width="15.779481" height="10" x="105.70966" y="142.69171" />
+    <rect class="box key_ctrl_RIGHTBRACE" width="10" height="10" x="142.13239" y="109.69143" />
+    <rect class="box key_ctrl_RIGHTCTRL" width="13.831776" height="10" x="154.22423" y="142.69171" />
+    <rect class="box key_ctrl_RIGHTMETA" width="15.779481" height="10" x="122.52563" y="142.69171" />
+    <rect class="box key_ctrl_RIGHTSHIFT" width="25.426792" height="10" x="142.70541" y="131.69142" />
+    <rect class="box key_ctrl_S" width="10" height="10" x="37.132374" y="120.69143" />
+    <rect class="box key_ctrl_SCROLLLOCK" width="10" height="10" x="186.61017" y="84.24572" />
+    <rect class="box key_ctrl_SEMICOLON" width="10" height="10" x="125.13238" y="120.69143" />
+    <rect class="box key_ctrl_SLASH" width="10" height="10" x="131.45067" y="131.69142" />
+    <rect class="box key_ctrl_SPACE" width="52.925739" height="10" x="51.70639" y="142.69171" />
+    <rect class="box key_ctrl_SYSRQ" width="10" height="10" x="175.61017" y="84.24572" />
+    <rect class="box key_ctrl_T" width="10" height="10" x="65.132378" y="109.69143" />
+    <rect class="box key_ctrl_TAB" width="15.05681" height="10" x="5.1323733" y="109.69143" />
+    <rect class="box key_ctrl_U" width="10" height="10" x="87.132378" y="109.69143" />
+    <rect class="box key_ctrl_UP" width="10" height="10" x="186.61017" y="131.69142" />
+    <rect class="box key_ctrl_V" width="10" height="10" x="64.132378" y="131.69142" />
+    <rect class="box key_ctrl_W" width="10" height="10" x="32.132374" y="109.69143" />
+    <rect class="box key_ctrl_X" width="10" height="10" x="42.132374" y="131.69142" />
+    <rect class="box key_ctrl_Y" width="10" height="10" x="76.132378" y="109.69143" />
+    <rect class="box key_ctrl_Z" width="10" height="10" x="31.132376" y="131.69142" />
+    <text class="txt" x="100.12305" y="138.11943">m</text>
+    <text class="txt" x="102.45638" y="116.11943">i</text>
+    <text class="txt" x="106.70038" y="127.11943">k</text>
+    <text class="txt" x="107.724" y="90.871323">F8</text>
+    <text class="txt" x="107.99238" y="105.11971">9</text>
+    <text class="txt" x="112.57038" y="116.12143">o</text>
+    <text class="txt" x="112.86459" y="137.82793">,</text>
+    <text class="txt" x="117.94038" y="127.11914">l</text>
+    <text class="txt" x="118.98838" y="105.12172">0</text>
+    <text class="txt" x="123.83038" y="116.11943">p</text>
+    <text class="txt" x="124.10136" y="137.84793">.</text>
+    <text class="txt" x="127.5538" y="90.871323">F9</text>
+    <text class="txt" x="129.68237" y="126.53313">;</text>
+    <text class="txt" x="130.48837" y="104.76372">-</text>
+    <text class="txt" x="135.36438" y="115.80343">[</text>
+    <text class="txt" x="135.70667" y="138.11943">/</text>
+    <text class="txt" x="137.58559" y="90.873322">F10</text>
+    <text class="txt" x="140.68239" y="127.11914">'</text>
+    <text class="txt" x="140.99239" y="105.09972">=</text>
+    <text class="txt" x="146.58438" y="115.80343">]</text>
+    <text class="txt" x="148.91435" y="90.871323">F11</text>
+    <text class="txt" x="150.84239" y="127.11943">#</text>
+    <text class="txt" x="159.71622" y="90.891327">F12</text>
+    <text class="txt" x="178.62016" y="149.1586">←</text>
+    <text class="txt" x="189.61017" y="138.22142">↑</text>
+    <text class="txt" x="189.61017" y="149.14859">↓</text>
+    <text class="txt" x="20.244373" y="105.11971">1</text>
+    <text class="txt" x="200.60017" y="149.1586">→</text>
+    <text class="txt" x="21.419588" y="90.871323">F1</text>
+    <text class="txt" x="219.99763" y="127.0746">4</text>
+    <text class="txt" x="219.99963" y="148.96294">0</text>
+    <text class="txt" x="220.00963" y="116.11943">7</text>
+    <text class="txt" x="220.25563" y="138.01376">1</text>
+    <text class="txt" x="230.98763" y="127.0466">5</text>
+    <text class="txt" x="231.00163" y="116.11943">8</text>
+    <text class="txt" x="231.00763" y="138.03377">2</text>
+    <text class="txt" x="231.39963" y="105.17226">/</text>
+    <text class="txt" x="24.386375" y="138.11943">\</text>
+    <text class="txt" x="24.570374" y="116.16343">q</text>
+    <text class="txt" x="241.98363" y="127.0666">6</text>
+    <text class="txt" x="242.00363" y="116.11943">9</text>
+    <text class="txt" x="242.02364" y="138.01376">3</text>
+    <text class="txt" x="242.04562" y="105.88425">*</text>
+    <text class="txt" x="242.60764" y="148.94695">.</text>
+    <text class="txt" x="253.00363" y="121.57701">+</text>
+    <text class="txt" x="253.49963" y="104.81626">-</text>
+    <text class="txt" x="29.856377" y="127.12514">a</text>
+    <text class="txt" x="30.996376" y="105.13972">2</text>
+    <text class="txt" x="32.089588" y="90.891327">F2</text>
+    <text class="txt" x="34.990376" y="138.11943">z</text>
+    <text class="txt" x="35.274372" y="116.11943">w</text>
+    <text class="txt" x="41.026375" y="127.11914">s</text>
+    <text class="txt" x="42.012375" y="105.11971">3</text>
+    <text class="txt" x="43.274151" y="90.871323">F3</text>
+    <text class="txt" x="45.960373" y="138.11943">x</text>
+    <text class="txt" x="46.946373" y="116.11943">e</text>
+    <text class="txt" x="51.600368" y="127.11914">d</text>
+    <text class="txt" x="52.98637" y="105.12772">4</text>
+    <text class="txt" x="54.20015" y="90.879326">F4</text>
+    <text class="txt" x="56.808369" y="138.11943">c</text>
+    <text class="txt" x="57.724369" y="116.11943">r</text>
+    <text class="txt" x="6.9743738" y="90.851326">Esc</text>
+    <text class="txt" x="62.946369" y="127.11914">f</text>
+    <text class="txt" x="63.976372" y="105.09972">5</text>
+    <text class="txt" x="67.932381" y="138.11943">v</text>
+    <text class="txt" x="69.022377" y="116.11943">t</text>
+    <text class="txt" x="73.70237" y="127.11914">g</text>
+    <text class="txt" x="74.563438" y="90.851326">F5</text>
+    <text class="txt" x="74.972366" y="105.11971">6</text>
+    <text class="txt" x="78.746376" y="138.11943">b</text>
+    <text class="txt" x="80.000374" y="116.11943">y</text>
+    <text class="txt" x="84.652374" y="127.11914">h</text>
+    <text class="txt" x="85.543442" y="90.871323">F6</text>
+    <text class="txt" x="85.998375" y="105.11971">7</text>
+    <text class="txt" x="89.612381" y="138.11943">n</text>
+    <text class="txt" x="9.394166" y="105.56745">`</text>
+    <text class="txt" x="90.672379" y="116.09943">u</text>
+    <text class="txt" x="96.722" y="90.871323">F7</text>
+    <text class="txt" x="96.859161" y="127.11914">j</text>
+    <text class="txt" x="96.990379" y="105.11971">8</text>
+    <text class="txtsm" x="10.250278" y="115.81643">Tab</text>
+    <text class="txtsm" x="10.562114" y="148.81673">Ctrl</text>
+    <text class="txtsm" x="109.6334" y="148.81673">Alt Gr</text>
+    <text class="txtsm" x="126.80187" y="148.74773">Meta</text>
+    <text class="txtsm" x="142.18617" y="148.74773">Menu</text>
+    <text class="txtsm" x="150.49538" y="104.47172">BackSpace</text>
+    <text class="txtsm" x="152.18031" y="137.82393">Shift</text>
+    <text class="txtsm" x="155.78937" y="115.47143">Return</text>
+    <text class="txtsm" x="158.68011" y="148.81673">Ctrl</text>
+    <text class="txtsm" x="176.90218" y="90.316727">PrtSc</text>
+    <text class="txtsm" x="178.26418" y="115.81643">Del</text>
+    <text class="txtsm" x="178.46367" y="104.80025">Ins</text>
+    <text class="txtsm" x="187.27367" y="104.82653">Home</text>
+    <text class="txtsm" x="188.90868" y="115.81643">End</text>
+    <text class="txtsm" x="198.30067" y="90.30172">Pause</text>
+    <text class="txtsm" x="198.69817" y="104.45526">PgUp</text>
+    <text class="txtsm" x="198.73418" y="115.40243">PgDn</text>
+    <text class="txtsm" x="25.257906" y="148.74773">Meta</text>
+    <text class="txtsm" x="250.25264" y="143.11536">Enter</text>
+    <text class="txtsm" x="41.892845" y="148.81673">Alt</text>
+    <text class="txtsm" x="8.3755484" y="126.47114">CapsLock</text>
+    <text class="txtsm" x="8.809763" y="137.82393">Shift</text>
+    <g transform="translate(-3.3e-6,79.816811)">
+      <text class="txtsm" x="187.84666" y="9.0568609">Scroll</text>
+      <text class="txtsm" x="188.26367" y="12.050963">Lock</text>
+    </g>
+    <g transform="translate(-3.3e-6,79.113221)">
+      <text class="txtsm" x="217.65013" y="24.258986">Num</text>
+      <text class="txtsm" x="217.79713" y="27.253088">Lock</text>
+    </g>
+  </g>
+  <g id="g_alt" transform="translate(-2.62e-4,81.237752)">
+    <path class="box key_alt_RETURN" d="m 153.0825,109.69157 v 9.9999 h 5.04982 v 10.99985 h 9.9999 v -10.99985 -9.9999 z" />
+    <rect class="box key_alt_0" width="10" height="10" x="115.13238" y="98.691719" />
+    <rect class="box key_alt_1" width="10" height="10" x="16.132374" y="98.691719" />
+    <rect class="box key_alt_102ND" width="10" height="10" x="20.132376" y="131.69142" />
+    <rect class="box key_alt_2" width="10" height="10" x="27.132376" y="98.691719" />
+    <rect class="box key_alt_3" width="10" height="10" x="38.132374" y="98.691719" />
+    <rect class="box key_alt_4" width="10" height="10" x="49.13237" y="98.691719" />
+    <rect class="box key_alt_5" width="10" height="10" x="60.13237" y="98.691719" />
+    <rect class="box key_alt_6" width="10" height="10" x="71.13237" y="98.691719" />
+    <rect class="box key_alt_7" width="10" height="10" x="82.132378" y="98.691719" />
+    <rect class="box key_alt_8" width="10" height="10" x="93.132378" y="98.691719" />
+    <rect class="box key_alt_9" width="10" height="10" x="104.13238" y="98.691719" />
+    <rect class="box key_alt_A" width="10" height="10" x="26.132376" y="120.69143" />
+    <rect class="box key_alt_APOSTROPHE" width="10" height="10" x="136.13239" y="120.69143" />
+    <rect class="box key_alt_B" width="10" height="10" x="75.132378" y="131.69142" />
+    <rect class="box key_alt_BACKSLASH" width="10" height="10" x="147.13239" y="120.69143" />
+    <rect class="box key_alt_BACKSPACE" width="20.153692" height="10" x="147.97853" y="98.691719" />
+    <rect class="box key_alt_C" width="10" height="10" x="53.13237" y="131.69142" />
+    <rect class="box key_alt_CAPSLOCK" width="19.932348" height="10" x="5.1323733" y="120.69114" />
+    <rect class="box key_alt_COMMA" width="10" height="10" x="108.3306" y="131.69142" />
+    <rect class="box key_alt_D" width="10" height="10" x="48.13237" y="120.69143" />
+    <rect class="box key_alt_DELETE" width="10" height="10" x="175.61017" y="109.69143" />
+    <rect class="box key_alt_DOT" width="10" height="10" x="119.63737" y="131.69142" />
+    <rect class="box key_alt_DOWN" width="10" height="10" x="186.61017" y="142.6386" />
+    <rect class="box key_alt_E" width="10" height="10" x="43.132374" y="109.69143" />
+    <rect class="box key_alt_END" width="10" height="10" x="186.61017" y="109.69143" />
+    <rect class="box key_alt_EQUAL" width="10" height="10" x="137.13239" y="98.691719" />
+    <rect class="box key_alt_ESC" width="10" height="10" x="5.1323733" y="84.443329" />
+    <rect class="box key_alt_F" width="10" height="10" x="59.13237" y="120.69143" />
+    <rect class="box key_alt_F1" width="10" height="10" x="18.361586" y="84.443329" />
+    <rect class="box key_alt_F10" width="10" height="10" x="136.00758" y="84.443329" />
+    <rect class="box key_alt_F11" width="10" height="10" x="147.00035" y="84.443329" />
+    <rect class="box key_alt_F12" width="10" height="10" x="158.13222" y="84.443329" />
+    <rect class="box key_alt_F2" width="10" height="10" x="29.361586" y="84.443329" />
+    <rect class="box key_alt_F3" width="10" height="10" x="40.536148" y="84.443329" />
+    <rect class="box key_alt_F4" width="10" height="10" x="51.536148" y="84.443329" />
+    <rect class="box key_alt_F5" width="10" height="10" x="71.825439" y="84.443329" />
+    <rect class="box key_alt_F6" width="10" height="10" x="82.825439" y="84.443329" />
+    <rect class="box key_alt_F7" width="10" height="10" x="94" y="84.443329" />
+    <rect class="box key_alt_F8" width="10" height="10" x="105" y="84.443329" />
+    <rect class="box key_alt_F9" width="10" height="10" x="124.8258" y="84.443329" />
+    <rect class="box key_alt_G" width="10" height="10" x="70.13237" y="120.69143" />
+    <rect class="box key_alt_GRAVE" width="10" height="10" x="5.1323733" y="98.691719" />
+    <rect class="box key_alt_H" width="10" height="10" x="81.132378" y="120.69143" />
+    <rect class="box key_alt_HOME" width="10" height="10" x="186.61017" y="98.770531" />
+    <rect class="box key_alt_I" width="10" height="10" x="98.132378" y="109.69143" />
+    <rect class="box key_alt_INSERT" width="10" height="10" x="175.61017" y="98.744255" />
+    <rect class="box key_alt_J" width="10" height="10" x="92.132378" y="120.69143" />
+    <rect class="box key_alt_K" width="10" height="10" x="103.13238" y="120.69143" />
+    <rect class="box key_alt_KP0" width="21.083063" height="10" x="216.14363" y="142.53294" />
+    <rect class="box key_alt_KP1" width="10" height="10" x="216.14363" y="131.58577" />
+    <rect class="box key_alt_KP2" width="10" height="10" x="227.14363" y="131.58577" />
+    <rect class="box key_alt_KP3" width="10" height="10" x="238.14363" y="131.58577" />
+    <rect class="box key_alt_KP4" width="10" height="10" x="216.14363" y="120.6386" />
+    <rect class="box key_alt_KP5" width="10" height="10" x="227.14363" y="120.6386" />
+    <rect class="box key_alt_KP6" width="10" height="10" x="238.14363" y="120.6386" />
+    <rect class="box key_alt_KP7" width="10" height="10" x="216.14363" y="109.69143" />
+    <rect class="box key_alt_KP8" width="10" height="10" x="227.14363" y="109.69143" />
+    <rect class="box key_alt_KP9" width="10" height="10" x="238.14363" y="109.69143" />
+    <rect class="box key_alt_KPASTERISK" width="10" height="10" x="238.14363" y="98.744255" />
+    <rect class="box key_alt_KPDOT" width="10" height="10" x="238.14363" y="142.53294" />
+    <rect class="box key_alt_KPENTER" width="10" height="20.947174" x="249.14363" y="131.58577" />
+    <rect class="box key_alt_KPMINUS" width="10" height="10" x="249.14363" y="98.744255" />
+    <rect class="box key_alt_KPPLUS" width="10" height="20.94717" x="249.14363" y="109.69143" />
+    <rect class="box key_alt_KPSLASH" width="10" height="10" x="227.14363" y="98.744255" />
+    <rect class="box key_alt_L" width="10" height="10" x="114.13238" y="120.69143" />
+    <rect class="box key_alt_LEFT" width="10" height="10" x="175.61017" y="142.6386" />
+    <rect class="box key_alt_LEFTALT" width="13.831776" height="10" x="36.830956" y="142.69171" />
+    <rect class="box key_alt_LEFTBRACE" width="10" height="10" x="131.13239" y="109.69143" />
+    <rect class="box key_alt_LEFTCTRL" width="15.779481" height="10" x="5.1323733" y="142.69171" />
+    <rect class="box key_alt_LEFTMETA" width="13.831776" height="10" x="21.955517" y="142.69171" />
+    <rect class="box key_alt_LEFTSHIFT" width="13.831776" height="10" x="5.1323733" y="131.69142" />
+    <rect class="box key_alt_M" width="10" height="10" x="96.93705" y="131.72557" />
+    <rect class="box key_alt_MENU" width="13.831776" height="10" x="139.34879" y="142.69171" />
+    <rect class="box key_alt_MINUS" width="10" height="10" x="126.13238" y="98.691719" />
+    <rect class="box key_alt_N" width="10" height="10" x="86.132378" y="131.69142" />
+    <rect class="box key_alt_NUMLOCK" width="10" height="10" x="216.14363" y="98.744255" />
+    <rect class="box key_alt_O" width="10" height="10" x="109.13238" y="109.69143" />
+    <rect class="box key_alt_P" width="10" height="10" x="120.13238" y="109.69143" />
+    <rect class="box key_alt_PAGEDOWN" width="10.000003" height="10.000003" x="197.61017" y="109.69143" />
+    <rect class="box key_alt_PAGEUP" width="10" height="10" x="197.61017" y="98.744255" />
+    <rect class="box key_alt_PAUSE" width="10" height="10" x="197.61017" y="84.24572" />
+    <rect class="box key_alt_Q" width="10" height="10" x="21.132374" y="109.69143" />
+    <rect class="box key_alt_R" width="10" height="10" x="54.13237" y="109.69143" />
+    <rect class="box key_alt_RIGHT" width="10" height="10" x="197.61017" y="142.6386" />
+    <rect class="box key_alt_RIGHTALT" width="15.779481" height="10" x="105.70966" y="142.69171" />
+    <rect class="box key_alt_RIGHTBRACE" width="10" height="10" x="142.13239" y="109.69143" />
+    <rect class="box key_alt_RIGHTCTRL" width="13.831776" height="10" x="154.22423" y="142.69171" />
+    <rect class="box key_alt_RIGHTMETA" width="15.779481" height="10" x="122.52563" y="142.69171" />
+    <rect class="box key_alt_RIGHTSHIFT" width="25.426792" height="10" x="142.70541" y="131.69142" />
+    <rect class="box key_alt_S" width="10" height="10" x="37.132374" y="120.69143" />
+    <rect class="box key_alt_SCROLLLOCK" width="10" height="10" x="186.61017" y="84.24572" />
+    <rect class="box key_alt_SEMICOLON" width="10" height="10" x="125.13238" y="120.69143" />
+    <rect class="box key_alt_SLASH" width="10" height="10" x="131.45067" y="131.69142" />
+    <rect class="box key_alt_SPACE" width="52.925739" height="10" x="51.70639" y="142.69171" />
+    <rect class="box key_alt_SYSRQ" width="10" height="10" x="175.61017" y="84.24572" />
+    <rect class="box key_alt_T" width="10" height="10" x="65.132378" y="109.69143" />
+    <rect class="box key_alt_TAB" width="15.05681" height="10" x="5.1323733" y="109.69143" />
+    <rect class="box key_alt_U" width="10" height="10" x="87.132378" y="109.69143" />
+    <rect class="box key_alt_UP" width="10" height="10" x="186.61017" y="131.69142" />
+    <rect class="box key_alt_V" width="10" height="10" x="64.132378" y="131.69142" />
+    <rect class="box key_alt_W" width="10" height="10" x="32.132374" y="109.69143" />
+    <rect class="box key_alt_X" width="10" height="10" x="42.132374" y="131.69142" />
+    <rect class="box key_alt_Y" width="10" height="10" x="76.132378" y="109.69143" />
+    <rect class="box key_alt_Z" width="10" height="10" x="31.132376" y="131.69142" />
+    <text class="txt" x="100.12305" y="138.11943">m</text>
+    <text class="txt" x="102.45638" y="116.11943">i</text>
+    <text class="txt" x="106.70038" y="127.11943">k</text>
+    <text class="txt" x="107.724" y="90.871323">F8</text>
+    <text class="txt" x="107.99238" y="105.11971">9</text>
+    <text class="txt" x="112.57038" y="116.12143">o</text>
+    <text class="txt" x="112.86459" y="137.82793">,</text>
+    <text class="txt" x="117.94038" y="127.11914">l</text>
+    <text class="txt" x="118.98838" y="105.12172">0</text>
+    <text class="txt" x="123.83038" y="116.11943">p</text>
+    <text class="txt" x="124.10136" y="137.84793">.</text>
+    <text class="txt" x="127.5538" y="90.871323">F9</text>
+    <text class="txt" x="129.68237" y="126.53313">;</text>
+    <text class="txt" x="130.48837" y="104.76372">-</text>
+    <text class="txt" x="135.36438" y="115.80343">[</text>
+    <text class="txt" x="135.70667" y="138.11943">/</text>
+    <text class="txt" x="137.58559" y="90.873322">F10</text>
+    <text class="txt" x="140.68239" y="127.11914">'</text>
+    <text class="txt" x="140.99239" y="105.09972">=</text>
+    <text class="txt" x="146.58438" y="115.80343">]</text>
+    <text class="txt" x="148.91435" y="90.871323">F11</text>
+    <text class="txt" x="150.84239" y="127.11943">#</text>
+    <text class="txt" x="159.71622" y="90.891327">F12</text>
+    <text class="txt" x="178.62016" y="149.1586">←</text>
+    <text class="txt" x="189.61017" y="138.22142">↑</text>
+    <text class="txt" x="189.61017" y="149.14859">↓</text>
+    <text class="txt" x="20.244373" y="105.11971">1</text>
+    <text class="txt" x="200.60017" y="149.1586">→</text>
+    <text class="txt" x="21.419588" y="90.871323">F1</text>
+    <text class="txt" x="219.99763" y="127.0746">4</text>
+    <text class="txt" x="219.99963" y="148.96294">0</text>
+    <text class="txt" x="220.00963" y="116.11943">7</text>
+    <text class="txt" x="220.25563" y="138.01376">1</text>
+    <text class="txt" x="230.98763" y="127.0466">5</text>
+    <text class="txt" x="231.00163" y="116.11943">8</text>
+    <text class="txt" x="231.00763" y="138.03377">2</text>
+    <text class="txt" x="231.39963" y="105.17226">/</text>
+    <text class="txt" x="24.386375" y="138.11943">\</text>
+    <text class="txt" x="24.570374" y="116.16343">q</text>
+    <text class="txt" x="241.98363" y="127.0666">6</text>
+    <text class="txt" x="242.00363" y="116.11943">9</text>
+    <text class="txt" x="242.02364" y="138.01376">3</text>
+    <text class="txt" x="242.04562" y="105.88425">*</text>
+    <text class="txt" x="242.60764" y="148.94695">.</text>
+    <text class="txt" x="253.00363" y="121.57701">+</text>
+    <text class="txt" x="253.49963" y="104.81626">-</text>
+    <text class="txt" x="29.856377" y="127.12514">a</text>
+    <text class="txt" x="30.996376" y="105.13972">2</text>
+    <text class="txt" x="32.089588" y="90.891327">F2</text>
+    <text class="txt" x="34.990376" y="138.11943">z</text>
+    <text class="txt" x="35.274372" y="116.11943">w</text>
+    <text class="txt" x="41.026375" y="127.11914">s</text>
+    <text class="txt" x="42.012375" y="105.11971">3</text>
+    <text class="txt" x="43.274151" y="90.871323">F3</text>
+    <text class="txt" x="45.960373" y="138.11943">x</text>
+    <text class="txt" x="46.946373" y="116.11943">e</text>
+    <text class="txt" x="51.600368" y="127.11914">d</text>
+    <text class="txt" x="52.98637" y="105.12772">4</text>
+    <text class="txt" x="54.20015" y="90.879326">F4</text>
+    <text class="txt" x="56.808369" y="138.11943">c</text>
+    <text class="txt" x="57.724369" y="116.11943">r</text>
+    <text class="txt" x="6.9743738" y="90.851326">Esc</text>
+    <text class="txt" x="62.946369" y="127.11914">f</text>
+    <text class="txt" x="63.976372" y="105.09972">5</text>
+    <text class="txt" x="67.932381" y="138.11943">v</text>
+    <text class="txt" x="69.022377" y="116.11943">t</text>
+    <text class="txt" x="73.70237" y="127.11914">g</text>
+    <text class="txt" x="74.563438" y="90.851326">F5</text>
+    <text class="txt" x="74.972366" y="105.11971">6</text>
+    <text class="txt" x="78.746376" y="138.11943">b</text>
+    <text class="txt" x="80.000374" y="116.11943">y</text>
+    <text class="txt" x="84.652374" y="127.11914">h</text>
+    <text class="txt" x="85.543442" y="90.871323">F6</text>
+    <text class="txt" x="85.998375" y="105.11971">7</text>
+    <text class="txt" x="89.612381" y="138.11943">n</text>
+    <text class="txt" x="9.394166" y="105.56745">`</text>
+    <text class="txt" x="90.672379" y="116.09943">u</text>
+    <text class="txt" x="96.722" y="90.871323">F7</text>
+    <text class="txt" x="96.859161" y="127.11914">j</text>
+    <text class="txt" x="96.990379" y="105.11971">8</text>
+    <text class="txtsm" x="10.250278" y="115.81643">Tab</text>
+    <text class="txtsm" x="10.562114" y="148.81673">Ctrl</text>
+    <text class="txtsm" x="109.6334" y="148.81673">Alt Gr</text>
+    <text class="txtsm" x="126.80187" y="148.74773">Meta</text>
+    <text class="txtsm" x="142.18617" y="148.74773">Menu</text>
+    <text class="txtsm" x="150.49538" y="104.47172">BackSpace</text>
+    <text class="txtsm" x="152.18031" y="137.82393">Shift</text>
+    <text class="txtsm" x="155.78937" y="115.47143">Return</text>
+    <text class="txtsm" x="158.68011" y="148.81673">Ctrl</text>
+    <text class="txtsm" x="176.90218" y="90.316727">PrtSc</text>
+    <text class="txtsm" x="178.26418" y="115.81643">Del</text>
+    <text class="txtsm" x="178.46367" y="104.80025">Ins</text>
+    <text class="txtsm" x="187.27367" y="104.82653">Home</text>
+    <text class="txtsm" x="188.90868" y="115.81643">End</text>
+    <text class="txtsm" x="198.30067" y="90.30172">Pause</text>
+    <text class="txtsm" x="198.69817" y="104.45526">PgUp</text>
+    <text class="txtsm" x="198.73418" y="115.40243">PgDn</text>
+    <text class="txtsm" x="25.257906" y="148.74773">Meta</text>
+    <text class="txtsm" x="250.25264" y="143.11536">Enter</text>
+    <text class="txtsm" x="41.892845" y="148.81673">Alt</text>
+    <text class="txtsm" x="8.3755484" y="126.47114">CapsLock</text>
+    <text class="txtsm" x="8.809763" y="137.82393">Shift</text>
+    <g transform="translate(-3.3e-6,79.816811)">
+      <text class="txtsm" x="187.84666" y="9.0568609">Scroll</text>
+      <text class="txtsm" x="188.26367" y="12.050963">Lock</text>
+    </g>
+    <g transform="translate(-3.3e-6,79.113221)">
+      <text class="txtsm" x="217.65013" y="24.258986">Num</text>
+      <text class="txtsm" x="217.79713" y="27.253088">Lock</text>
+    </g>
+  </g>
+  <g id="g_ctrl_shift" transform="translate(270.1973,2.444e-4)">
+    <path class="box key_ctrl_shift_RETURN" d="m 153.0825,109.69157 v 9.9999 h 5.04982 v 10.99985 h 9.9999 v -10.99985 -9.9999 z" />
+    <rect class="box key_ctrl_shift_0" width="10" height="10" x="115.13238" y="98.691719" />
+    <rect class="box key_ctrl_shift_1" width="10" height="10" x="16.132374" y="98.691719" />
+    <rect class="box key_ctrl_shift_102ND" width="10" height="10" x="20.132376" y="131.69142" />
+    <rect class="box key_ctrl_shift_2" width="10" height="10" x="27.132376" y="98.691719" />
+    <rect class="box key_ctrl_shift_3" width="10" height="10" x="38.132374" y="98.691719" />
+    <rect class="box key_ctrl_shift_4" width="10" height="10" x="49.13237" y="98.691719" />
+    <rect class="box key_ctrl_shift_5" width="10" height="10" x="60.13237" y="98.691719" />
+    <rect class="box key_ctrl_shift_6" width="10" height="10" x="71.13237" y="98.691719" />
+    <rect class="box key_ctrl_shift_7" width="10" height="10" x="82.132378" y="98.691719" />
+    <rect class="box key_ctrl_shift_8" width="10" height="10" x="93.132378" y="98.691719" />
+    <rect class="box key_ctrl_shift_9" width="10" height="10" x="104.13238" y="98.691719" />
+    <rect class="box key_ctrl_shift_A" width="10" height="10" x="26.132376" y="120.69143" />
+    <rect class="box key_ctrl_shift_APOSTROPHE" width="10" height="10" x="136.13239" y="120.69143" />
+    <rect class="box key_ctrl_shift_B" width="10" height="10" x="75.132378" y="131.69142" />
+    <rect class="box key_ctrl_shift_BACKSLASH" width="10" height="10" x="147.13239" y="120.69143" />
+    <rect class="box key_ctrl_shift_BACKSPACE" width="20.153692" height="10" x="147.97853" y="98.691719" />
+    <rect class="box key_ctrl_shift_C" width="10" height="10" x="53.13237" y="131.69142" />
+    <rect class="box key_ctrl_shift_CAPSLOCK" width="19.932348" height="10" x="5.1323733" y="120.69114" />
+    <rect class="box key_ctrl_shift_COMMA" width="10" height="10" x="108.3306" y="131.69142" />
+    <rect class="box key_ctrl_shift_D" width="10" height="10" x="48.13237" y="120.69143" />
+    <rect class="box key_ctrl_shift_DELETE" width="10" height="10" x="175.61017" y="109.69143" />
+    <rect class="box key_ctrl_shift_DOT" width="10" height="10" x="119.63737" y="131.69142" />
+    <rect class="box key_ctrl_shift_DOWN" width="10" height="10" x="186.61017" y="142.6386" />
+    <rect class="box key_ctrl_shift_E" width="10" height="10" x="43.132374" y="109.69143" />
+    <rect class="box key_ctrl_shift_END" width="10" height="10" x="186.61017" y="109.69143" />
+    <rect class="box key_ctrl_shift_EQUAL" width="10" height="10" x="137.13239" y="98.691719" />
+    <rect class="box key_ctrl_shift_ESC" width="10" height="10" x="5.1323733" y="84.443329" />
+    <rect class="box key_ctrl_shift_F" width="10" height="10" x="59.13237" y="120.69143" />
+    <rect class="box key_ctrl_shift_F1" width="10" height="10" x="18.361586" y="84.443329" />
+    <rect class="box key_ctrl_shift_F10" width="10" height="10" x="136.00758" y="84.443329" />
+    <rect class="box key_ctrl_shift_F11" width="10" height="10" x="147.00035" y="84.443329" />
+    <rect class="box key_ctrl_shift_F12" width="10" height="10" x="158.13222" y="84.443329" />
+    <rect class="box key_ctrl_shift_F2" width="10" height="10" x="29.361586" y="84.443329" />
+    <rect class="box key_ctrl_shift_F3" width="10" height="10" x="40.536148" y="84.443329" />
+    <rect class="box key_ctrl_shift_F4" width="10" height="10" x="51.536148" y="84.443329" />
+    <rect class="box key_ctrl_shift_F5" width="10" height="10" x="71.825439" y="84.443329" />
+    <rect class="box key_ctrl_shift_F6" width="10" height="10" x="82.825439" y="84.443329" />
+    <rect class="box key_ctrl_shift_F7" width="10" height="10" x="94" y="84.443329" />
+    <rect class="box key_ctrl_shift_F8" width="10" height="10" x="105" y="84.443329" />
+    <rect class="box key_ctrl_shift_F9" width="10" height="10" x="124.8258" y="84.443329" />
+    <rect class="box key_ctrl_shift_G" width="10" height="10" x="70.13237" y="120.69143" />
+    <rect class="box key_ctrl_shift_GRAVE" width="10" height="10" x="5.1323733" y="98.691719" />
+    <rect class="box key_ctrl_shift_H" width="10" height="10" x="81.132378" y="120.69143" />
+    <rect class="box key_ctrl_shift_HOME" width="10" height="10" x="186.61017" y="98.770531" />
+    <rect class="box key_ctrl_shift_I" width="10" height="10" x="98.132378" y="109.69143" />
+    <rect class="box key_ctrl_shift_INSERT" width="10" height="10" x="175.61017" y="98.744255" />
+    <rect class="box key_ctrl_shift_J" width="10" height="10" x="92.132378" y="120.69143" />
+    <rect class="box key_ctrl_shift_K" width="10" height="10" x="103.13238" y="120.69143" />
+    <rect class="box key_ctrl_shift_KP0" width="21.083063" height="10" x="216.14363" y="142.53294" />
+    <rect class="box key_ctrl_shift_KP1" width="10" height="10" x="216.14363" y="131.58577" />
+    <rect class="box key_ctrl_shift_KP2" width="10" height="10" x="227.14363" y="131.58577" />
+    <rect class="box key_ctrl_shift_KP3" width="10" height="10" x="238.14363" y="131.58577" />
+    <rect class="box key_ctrl_shift_KP4" width="10" height="10" x="216.14363" y="120.6386" />
+    <rect class="box key_ctrl_shift_KP5" width="10" height="10" x="227.14363" y="120.6386" />
+    <rect class="box key_ctrl_shift_KP6" width="10" height="10" x="238.14363" y="120.6386" />
+    <rect class="box key_ctrl_shift_KP7" width="10" height="10" x="216.14363" y="109.69143" />
+    <rect class="box key_ctrl_shift_KP8" width="10" height="10" x="227.14363" y="109.69143" />
+    <rect class="box key_ctrl_shift_KP9" width="10" height="10" x="238.14363" y="109.69143" />
+    <rect class="box key_ctrl_shift_KPASTERISK" width="10" height="10" x="238.14363" y="98.744255" />
+    <rect class="box key_ctrl_shift_KPDOT" width="10" height="10" x="238.14363" y="142.53294" />
+    <rect class="box key_ctrl_shift_KPENTER" width="10" height="20.947174" x="249.14363" y="131.58577" />
+    <rect class="box key_ctrl_shift_KPMINUS" width="10" height="10" x="249.14363" y="98.744255" />
+    <rect class="box key_ctrl_shift_KPPLUS" width="10" height="20.94717" x="249.14363" y="109.69143" />
+    <rect class="box key_ctrl_shift_KPSLASH" width="10" height="10" x="227.14363" y="98.744255" />
+    <rect class="box key_ctrl_shift_L" width="10" height="10" x="114.13238" y="120.69143" />
+    <rect class="box key_ctrl_shift_LEFT" width="10" height="10" x="175.61017" y="142.6386" />
+    <rect class="box key_ctrl_shift_LEFTALT" width="13.831776" height="10" x="36.830956" y="142.69171" />
+    <rect class="box key_ctrl_shift_LEFTBRACE" width="10" height="10" x="131.13239" y="109.69143" />
+    <rect class="box key_ctrl_shift_LEFTCTRL" width="15.779481" height="10" x="5.1323733" y="142.69171" />
+    <rect class="box key_ctrl_shift_LEFTMETA" width="13.831776" height="10" x="21.955517" y="142.69171" />
+    <rect class="box key_ctrl_shift_LEFTSHIFT" width="13.831776" height="10" x="5.1323733" y="131.69142" />
+    <rect class="box key_ctrl_shift_M" width="10" height="10" x="96.93705" y="131.72557" />
+    <rect class="box key_ctrl_shift_MENU" width="13.831776" height="10" x="139.34879" y="142.69171" />
+    <rect class="box key_ctrl_shift_MINUS" width="10" height="10" x="126.13238" y="98.691719" />
+    <rect class="box key_ctrl_shift_N" width="10" height="10" x="86.132378" y="131.69142" />
+    <rect class="box key_ctrl_shift_NUMLOCK" width="10" height="10" x="216.14363" y="98.744255" />
+    <rect class="box key_ctrl_shift_O" width="10" height="10" x="109.13238" y="109.69143" />
+    <rect class="box key_ctrl_shift_P" width="10" height="10" x="120.13238" y="109.69143" />
+    <rect class="box key_ctrl_shift_PAGEDOWN" width="10.000003" height="10.000003" x="197.61017" y="109.69143" />
+    <rect class="box key_ctrl_shift_PAGEUP" width="10" height="10" x="197.61017" y="98.744255" />
+    <rect class="box key_ctrl_shift_PAUSE" width="10" height="10" x="197.61017" y="84.24572" />
+    <rect class="box key_ctrl_shift_Q" width="10" height="10" x="21.132374" y="109.69143" />
+    <rect class="box key_ctrl_shift_R" width="10" height="10" x="54.13237" y="109.69143" />
+    <rect class="box key_ctrl_shift_RIGHT" width="10" height="10" x="197.61017" y="142.6386" />
+    <rect class="box key_ctrl_shift_RIGHTALT" width="15.779481" height="10" x="105.70966" y="142.69171" />
+    <rect class="box key_ctrl_shift_RIGHTBRACE" width="10" height="10" x="142.13239" y="109.69143" />
+    <rect class="box key_ctrl_shift_RIGHTCTRL" width="13.831776" height="10" x="154.22423" y="142.69171" />
+    <rect class="box key_ctrl_shift_RIGHTMETA" width="15.779481" height="10" x="122.52563" y="142.69171" />
+    <rect class="box key_ctrl_shift_RIGHTSHIFT" width="25.426792" height="10" x="142.70541" y="131.69142" />
+    <rect class="box key_ctrl_shift_S" width="10" height="10" x="37.132374" y="120.69143" />
+    <rect class="box key_ctrl_shift_SCROLLLOCK" width="10" height="10" x="186.61017" y="84.24572" />
+    <rect class="box key_ctrl_shift_SEMICOLON" width="10" height="10" x="125.13238" y="120.69143" />
+    <rect class="box key_ctrl_shift_SLASH" width="10" height="10" x="131.45067" y="131.69142" />
+    <rect class="box key_ctrl_shift_SPACE" width="52.925739" height="10" x="51.70639" y="142.69171" />
+    <rect class="box key_ctrl_shift_SYSRQ" width="10" height="10" x="175.61017" y="84.24572" />
+    <rect class="box key_ctrl_shift_T" width="10" height="10" x="65.132378" y="109.69143" />
+    <rect class="box key_ctrl_shift_TAB" width="15.05681" height="10" x="5.1323733" y="109.69143" />
+    <rect class="box key_ctrl_shift_U" width="10" height="10" x="87.132378" y="109.69143" />
+    <rect class="box key_ctrl_shift_UP" width="10" height="10" x="186.61017" y="131.69142" />
+    <rect class="box key_ctrl_shift_V" width="10" height="10" x="64.132378" y="131.69142" />
+    <rect class="box key_ctrl_shift_W" width="10" height="10" x="32.132374" y="109.69143" />
+    <rect class="box key_ctrl_shift_X" width="10" height="10" x="42.132374" y="131.69142" />
+    <rect class="box key_ctrl_shift_Y" width="10" height="10" x="76.132378" y="109.69143" />
+    <rect class="box key_ctrl_shift_Z" width="10" height="10" x="31.132376" y="131.69142" />
+    <text class="txt" x="100.12305" y="138.11943">M</text>
+    <text class="txt" x="102.45638" y="116.11943">I</text>
+    <text class="txt" x="106.70038" y="127.11943">K</text>
+    <text class="txt" x="107.724" y="90.871323">F8</text>
+    <text class="txt" x="107.99238" y="105.11971">(</text>
+    <text class="txt" x="112.57038" y="116.12143">O</text>
+    <text class="txt" x="112.86459" y="137.82793">&lt;</text>
+    <text class="txt" x="117.94038" y="127.11914">L</text>
+    <text class="txt" x="118.98838" y="105.12172">)</text>
+    <text class="txt" x="123.83038" y="116.11943">P</text>
+    <text class="txt" x="124.10136" y="137.84793">&gt;</text>
+    <text class="txt" x="127.5538" y="90.871323">F9</text>
+    <text class="txt" x="129.68237" y="126.53313">:</text>
+    <text class="txt" x="130.48837" y="104.76372">_</text>
+    <text class="txt" x="135.36438" y="115.80343">{</text>
+    <text class="txt" x="135.70667" y="138.11943">?</text>
+    <text class="txt" x="137.58559" y="90.873322">F10</text>
+    <text class="txt" x="140.68239" y="127.11914">@</text>
+    <text class="txt" x="140.99239" y="105.09972">+</text>
+    <text class="txt" x="146.58438" y="115.80343">}</text>
+    <text class="txt" x="148.91435" y="90.871323">F11</text>
+    <text class="txt" x="150.84239" y="127.11943">~</text>
+    <text class="txt" x="159.71622" y="90.891327">F12</text>
+    <text class="txt" x="178.62016" y="149.1586">←</text>
+    <text class="txt" x="189.61017" y="138.22142">↑</text>
+    <text class="txt" x="189.61017" y="149.14859">↓</text>
+    <text class="txt" x="20.244373" y="105.11971">!</text>
+    <text class="txt" x="200.60017" y="149.1586">→</text>
+    <text class="txt" x="21.419588" y="90.871323">F1</text>
+    <text class="txt" x="219.99763" y="127.0746">4</text>
+    <text class="txt" x="219.99963" y="148.96294">0</text>
+    <text class="txt" x="220.00963" y="116.11943">7</text>
+    <text class="txt" x="220.25563" y="138.01376">1</text>
+    <text class="txt" x="230.98763" y="127.0466">5</text>
+    <text class="txt" x="231.00163" y="116.11943">8</text>
+    <text class="txt" x="231.00763" y="138.03377">2</text>
+    <text class="txt" x="231.39963" y="105.17226">/</text>
+    <text class="txt" x="24.386375" y="138.11943">|</text>
+    <text class="txt" x="24.570374" y="116.16343">Q</text>
+    <text class="txt" x="241.98363" y="127.0666">6</text>
+    <text class="txt" x="242.00363" y="116.11943">9</text>
+    <text class="txt" x="242.02364" y="138.01376">3</text>
+    <text class="txt" x="242.04562" y="105.88425">*</text>
+    <text class="txt" x="242.60764" y="148.94695">.</text>
+    <text class="txt" x="253.00363" y="121.57701">+</text>
+    <text class="txt" x="253.49963" y="104.81626">-</text>
+    <text class="txt" x="29.856377" y="127.12514">A</text>
+    <text class="txt" x="30.996376" y="105.13972">"</text>
+    <text class="txt" x="32.089588" y="90.891327">F2</text>
+    <text class="txt" x="34.990376" y="138.11943">Z</text>
+    <text class="txt" x="35.274372" y="116.11943">W</text>
+    <text class="txt" x="41.026375" y="127.11914">S</text>
+    <text class="txt" x="42.012375" y="105.11971">£</text>
+    <text class="txt" x="43.274151" y="90.871323">F3</text>
+    <text class="txt" x="45.960373" y="138.11943">X</text>
+    <text class="txt" x="46.946373" y="116.11943">E</text>
+    <text class="txt" x="51.600368" y="127.11914">D</text>
+    <text class="txt" x="52.98637" y="105.12772">$</text>
+    <text class="txt" x="54.20015" y="90.879326">F4</text>
+    <text class="txt" x="56.808369" y="138.11943">C</text>
+    <text class="txt" x="57.724369" y="116.11943">R</text>
+    <text class="txt" x="6.9743738" y="90.851326">Esc</text>
+    <text class="txt" x="62.946369" y="127.11914">F</text>
+    <text class="txt" x="63.976372" y="105.09972">%</text>
+    <text class="txt" x="67.932381" y="138.11943">V</text>
+    <text class="txt" x="69.022377" y="116.11943">T</text>
+    <text class="txt" x="73.70237" y="127.11914">G</text>
+    <text class="txt" x="74.563438" y="90.851326">F5</text>
+    <text class="txt" x="74.972366" y="105.11971">^</text>
+    <text class="txt" x="78.746376" y="138.11943">B</text>
+    <text class="txt" x="80.000374" y="116.11943">Y</text>
+    <text class="txt" x="84.652374" y="127.11914">H</text>
+    <text class="txt" x="85.543442" y="90.871323">F6</text>
+    <text class="txt" x="85.998375" y="105.11971">&amp;</text>
+    <text class="txt" x="89.612381" y="138.11943">N</text>
+    <text class="txt" x="9.394166" y="105.56745">¬</text>
+    <text class="txt" x="90.672379" y="116.09943">U</text>
+    <text class="txt" x="96.722" y="90.871323">F7</text>
+    <text class="txt" x="96.859161" y="127.11914">J</text>
+    <text class="txt" x="96.990379" y="105.11971">*</text>
+    <text class="txtsm" x="10.250278" y="115.81643">Tab</text>
+    <text class="txtsm" x="10.562114" y="148.81673">Ctrl</text>
+    <text class="txtsm" x="109.6334" y="148.81673">Alt Gr</text>
+    <text class="txtsm" x="126.80187" y="148.74773">Meta</text>
+    <text class="txtsm" x="142.18617" y="148.74773">Menu</text>
+    <text class="txtsm" x="150.49538" y="104.47172">BackSpace</text>
+    <text class="txtsm" x="152.18031" y="137.82393">Shift</text>
+    <text class="txtsm" x="155.78937" y="115.47143">Return</text>
+    <text class="txtsm" x="158.68011" y="148.81673">Ctrl</text>
+    <text class="txtsm" x="176.90218" y="90.316727">PrtSc</text>
+    <text class="txtsm" x="178.26418" y="115.81643">Del</text>
+    <text class="txtsm" x="178.46367" y="104.80025">Ins</text>
+    <text class="txtsm" x="187.27367" y="104.82653">Home</text>
+    <text class="txtsm" x="188.90868" y="115.81643">End</text>
+    <text class="txtsm" x="198.30067" y="90.30172">Pause</text>
+    <text class="txtsm" x="198.69817" y="104.45526">PgUp</text>
+    <text class="txtsm" x="198.73418" y="115.40243">PgDn</text>
+    <text class="txtsm" x="25.257906" y="148.74773">Meta</text>
+    <text class="txtsm" x="250.25264" y="143.11536">Enter</text>
+    <text class="txtsm" x="41.892845" y="148.81673">Alt</text>
+    <text class="txtsm" x="8.3755484" y="126.47114">CapsLock</text>
+    <text class="txtsm" x="8.809763" y="137.82393">Shift</text>
+    <g transform="translate(-3.3e-6,79.816811)">
+      <text class="txtsm" x="187.84666" y="9.0568609">Scroll</text>
+      <text class="txtsm" x="188.26367" y="12.050963">Lock</text>
+    </g>
+    <g transform="translate(-3.3e-6,79.113221)">
+      <text class="txtsm" x="217.65013" y="24.258986">Num</text>
+      <text class="txtsm" x="217.79713" y="27.253088">Lock</text>
+    </g>
+  </g>
+  <g id="g_meta" transform="translate(270.1973,81.237752)">
+    <path class="box key_meta_RETURN" d="m 153.0825,109.69157 v 9.9999 h 5.04982 v 10.99985 h 9.9999 v -10.99985 -9.9999 z" />
+    <rect class="box key_meta_0" width="10" height="10" x="115.13238" y="98.691719" />
+    <rect class="box key_meta_1" width="10" height="10" x="16.132374" y="98.691719" />
+    <rect class="box key_meta_102ND" width="10" height="10" x="20.132376" y="131.69142" />
+    <rect class="box key_meta_2" width="10" height="10" x="27.132376" y="98.691719" />
+    <rect class="box key_meta_3" width="10" height="10" x="38.132374" y="98.691719" />
+    <rect class="box key_meta_4" width="10" height="10" x="49.13237" y="98.691719" />
+    <rect class="box key_meta_5" width="10" height="10" x="60.13237" y="98.691719" />
+    <rect class="box key_meta_6" width="10" height="10" x="71.13237" y="98.691719" />
+    <rect class="box key_meta_7" width="10" height="10" x="82.132378" y="98.691719" />
+    <rect class="box key_meta_8" width="10" height="10" x="93.132378" y="98.691719" />
+    <rect class="box key_meta_9" width="10" height="10" x="104.13238" y="98.691719" />
+    <rect class="box key_meta_A" width="10" height="10" x="26.132376" y="120.69143" />
+    <rect class="box key_meta_APOSTROPHE" width="10" height="10" x="136.13239" y="120.69143" />
+    <rect class="box key_meta_B" width="10" height="10" x="75.132378" y="131.69142" />
+    <rect class="box key_meta_BACKSLASH" width="10" height="10" x="147.13239" y="120.69143" />
+    <rect class="box key_meta_BACKSPACE" width="20.153692" height="10" x="147.97853" y="98.691719" />
+    <rect class="box key_meta_C" width="10" height="10" x="53.13237" y="131.69142" />
+    <rect class="box key_meta_CAPSLOCK" width="19.932348" height="10" x="5.1323733" y="120.69114" />
+    <rect class="box key_meta_COMMA" width="10" height="10" x="108.3306" y="131.69142" />
+    <rect class="box key_meta_D" width="10" height="10" x="48.13237" y="120.69143" />
+    <rect class="box key_meta_DELETE" width="10" height="10" x="175.61017" y="109.69143" />
+    <rect class="box key_meta_DOT" width="10" height="10" x="119.63737" y="131.69142" />
+    <rect class="box key_meta_DOWN" width="10" height="10" x="186.61017" y="142.6386" />
+    <rect class="box key_meta_E" width="10" height="10" x="43.132374" y="109.69143" />
+    <rect class="box key_meta_END" width="10" height="10" x="186.61017" y="109.69143" />
+    <rect class="box key_meta_EQUAL" width="10" height="10" x="137.13239" y="98.691719" />
+    <rect class="box key_meta_ESC" width="10" height="10" x="5.1323733" y="84.443329" />
+    <rect class="box key_meta_F" width="10" height="10" x="59.13237" y="120.69143" />
+    <rect class="box key_meta_F1" width="10" height="10" x="18.361586" y="84.443329" />
+    <rect class="box key_meta_F10" width="10" height="10" x="136.00758" y="84.443329" />
+    <rect class="box key_meta_F11" width="10" height="10" x="147.00035" y="84.443329" />
+    <rect class="box key_meta_F12" width="10" height="10" x="158.13222" y="84.443329" />
+    <rect class="box key_meta_F2" width="10" height="10" x="29.361586" y="84.443329" />
+    <rect class="box key_meta_F3" width="10" height="10" x="40.536148" y="84.443329" />
+    <rect class="box key_meta_F4" width="10" height="10" x="51.536148" y="84.443329" />
+    <rect class="box key_meta_F5" width="10" height="10" x="71.825439" y="84.443329" />
+    <rect class="box key_meta_F6" width="10" height="10" x="82.825439" y="84.443329" />
+    <rect class="box key_meta_F7" width="10" height="10" x="94" y="84.443329" />
+    <rect class="box key_meta_F8" width="10" height="10" x="105" y="84.443329" />
+    <rect class="box key_meta_F9" width="10" height="10" x="124.8258" y="84.443329" />
+    <rect class="box key_meta_G" width="10" height="10" x="70.13237" y="120.69143" />
+    <rect class="box key_meta_GRAVE" width="10" height="10" x="5.1323733" y="98.691719" />
+    <rect class="box key_meta_H" width="10" height="10" x="81.132378" y="120.69143" />
+    <rect class="box key_meta_HOME" width="10" height="10" x="186.61017" y="98.770531" />
+    <rect class="box key_meta_I" width="10" height="10" x="98.132378" y="109.69143" />
+    <rect class="box key_meta_INSERT" width="10" height="10" x="175.61017" y="98.744255" />
+    <rect class="box key_meta_J" width="10" height="10" x="92.132378" y="120.69143" />
+    <rect class="box key_meta_K" width="10" height="10" x="103.13238" y="120.69143" />
+    <rect class="box key_meta_KP0" width="21.083063" height="10" x="216.14363" y="142.53294" />
+    <rect class="box key_meta_KP1" width="10" height="10" x="216.14363" y="131.58577" />
+    <rect class="box key_meta_KP2" width="10" height="10" x="227.14363" y="131.58577" />
+    <rect class="box key_meta_KP3" width="10" height="10" x="238.14363" y="131.58577" />
+    <rect class="box key_meta_KP4" width="10" height="10" x="216.14363" y="120.6386" />
+    <rect class="box key_meta_KP5" width="10" height="10" x="227.14363" y="120.6386" />
+    <rect class="box key_meta_KP6" width="10" height="10" x="238.14363" y="120.6386" />
+    <rect class="box key_meta_KP7" width="10" height="10" x="216.14363" y="109.69143" />
+    <rect class="box key_meta_KP8" width="10" height="10" x="227.14363" y="109.69143" />
+    <rect class="box key_meta_KP9" width="10" height="10" x="238.14363" y="109.69143" />
+    <rect class="box key_meta_KPASTERISK" width="10" height="10" x="238.14363" y="98.744255" />
+    <rect class="box key_meta_KPDOT" width="10" height="10" x="238.14363" y="142.53294" />
+    <rect class="box key_meta_KPENTER" width="10" height="20.947174" x="249.14363" y="131.58577" />
+    <rect class="box key_meta_KPMINUS" width="10" height="10" x="249.14363" y="98.744255" />
+    <rect class="box key_meta_KPPLUS" width="10" height="20.94717" x="249.14363" y="109.69143" />
+    <rect class="box key_meta_KPSLASH" width="10" height="10" x="227.14363" y="98.744255" />
+    <rect class="box key_meta_L" width="10" height="10" x="114.13238" y="120.69143" />
+    <rect class="box key_meta_LEFT" width="10" height="10" x="175.61017" y="142.6386" />
+    <rect class="box key_meta_LEFTALT" width="13.831776" height="10" x="36.830956" y="142.69171" />
+    <rect class="box key_meta_LEFTBRACE" width="10" height="10" x="131.13239" y="109.69143" />
+    <rect class="box key_meta_LEFTCTRL" width="15.779481" height="10" x="5.1323733" y="142.69171" />
+    <rect class="box key_meta_LEFTMETA" width="13.831776" height="10" x="21.955517" y="142.69171" />
+    <rect class="box key_meta_LEFTSHIFT" width="13.831776" height="10" x="5.1323733" y="131.69142" />
+    <rect class="box key_meta_M" width="10" height="10" x="96.93705" y="131.72557" />
+    <rect class="box key_meta_MENU" width="13.831776" height="10" x="139.34879" y="142.69171" />
+    <rect class="box key_meta_MINUS" width="10" height="10" x="126.13238" y="98.691719" />
+    <rect class="box key_meta_N" width="10" height="10" x="86.132378" y="131.69142" />
+    <rect class="box key_meta_NUMLOCK" width="10" height="10" x="216.14363" y="98.744255" />
+    <rect class="box key_meta_O" width="10" height="10" x="109.13238" y="109.69143" />
+    <rect class="box key_meta_P" width="10" height="10" x="120.13238" y="109.69143" />
+    <rect class="box key_meta_PAGEDOWN" width="10.000003" height="10.000003" x="197.61017" y="109.69143" />
+    <rect class="box key_meta_PAGEUP" width="10" height="10" x="197.61017" y="98.744255" />
+    <rect class="box key_meta_PAUSE" width="10" height="10" x="197.61017" y="84.24572" />
+    <rect class="box key_meta_Q" width="10" height="10" x="21.132374" y="109.69143" />
+    <rect class="box key_meta_R" width="10" height="10" x="54.13237" y="109.69143" />
+    <rect class="box key_meta_RIGHT" width="10" height="10" x="197.61017" y="142.6386" />
+    <rect class="box key_meta_RIGHTALT" width="15.779481" height="10" x="105.70966" y="142.69171" />
+    <rect class="box key_meta_RIGHTBRACE" width="10" height="10" x="142.13239" y="109.69143" />
+    <rect class="box key_meta_RIGHTCTRL" width="13.831776" height="10" x="154.22423" y="142.69171" />
+    <rect class="box key_meta_RIGHTMETA" width="15.779481" height="10" x="122.52563" y="142.69171" />
+    <rect class="box key_meta_RIGHTSHIFT" width="25.426792" height="10" x="142.70541" y="131.69142" />
+    <rect class="box key_meta_S" width="10" height="10" x="37.132374" y="120.69143" />
+    <rect class="box key_meta_SCROLLLOCK" width="10" height="10" x="186.61017" y="84.24572" />
+    <rect class="box key_meta_SEMICOLON" width="10" height="10" x="125.13238" y="120.69143" />
+    <rect class="box key_meta_SLASH" width="10" height="10" x="131.45067" y="131.69142" />
+    <rect class="box key_meta_SPACE" width="52.925739" height="10" x="51.70639" y="142.69171" />
+    <rect class="box key_meta_SYSRQ" width="10" height="10" x="175.61017" y="84.24572" />
+    <rect class="box key_meta_T" width="10" height="10" x="65.132378" y="109.69143" />
+    <rect class="box key_meta_TAB" width="15.05681" height="10" x="5.1323733" y="109.69143" />
+    <rect class="box key_meta_U" width="10" height="10" x="87.132378" y="109.69143" />
+    <rect class="box key_meta_UP" width="10" height="10" x="186.61017" y="131.69142" />
+    <rect class="box key_meta_V" width="10" height="10" x="64.132378" y="131.69142" />
+    <rect class="box key_meta_W" width="10" height="10" x="32.132374" y="109.69143" />
+    <rect class="box key_meta_X" width="10" height="10" x="42.132374" y="131.69142" />
+    <rect class="box key_meta_Y" width="10" height="10" x="76.132378" y="109.69143" />
+    <rect class="box key_meta_Z" width="10" height="10" x="31.132376" y="131.69142" />
+    <text class="txt" x="100.12305" y="138.11943">m</text>
+    <text class="txt" x="102.45638" y="116.11943">i</text>
+    <text class="txt" x="106.70038" y="127.11943">k</text>
+    <text class="txt" x="107.724" y="90.871323">F8</text>
+    <text class="txt" x="107.99238" y="105.11971">9</text>
+    <text class="txt" x="112.57038" y="116.12143">o</text>
+    <text class="txt" x="112.86459" y="137.82793">,</text>
+    <text class="txt" x="117.94038" y="127.11914">l</text>
+    <text class="txt" x="118.98838" y="105.12172">0</text>
+    <text class="txt" x="123.83038" y="116.11943">p</text>
+    <text class="txt" x="124.10136" y="137.84793">.</text>
+    <text class="txt" x="127.5538" y="90.871323">F9</text>
+    <text class="txt" x="129.68237" y="126.53313">;</text>
+    <text class="txt" x="130.48837" y="104.76372">-</text>
+    <text class="txt" x="135.36438" y="115.80343">[</text>
+    <text class="txt" x="135.70667" y="138.11943">/</text>
+    <text class="txt" x="137.58559" y="90.873322">F10</text>
+    <text class="txt" x="140.68239" y="127.11914">'</text>
+    <text class="txt" x="140.99239" y="105.09972">=</text>
+    <text class="txt" x="146.58438" y="115.80343">]</text>
+    <text class="txt" x="148.91435" y="90.871323">F11</text>
+    <text class="txt" x="150.84239" y="127.11943">#</text>
+    <text class="txt" x="159.71622" y="90.891327">F12</text>
+    <text class="txt" x="178.62016" y="149.1586">←</text>
+    <text class="txt" x="189.61017" y="138.22142">↑</text>
+    <text class="txt" x="189.61017" y="149.14859">↓</text>
+    <text class="txt" x="20.244373" y="105.11971">1</text>
+    <text class="txt" x="200.60017" y="149.1586">→</text>
+    <text class="txt" x="21.419588" y="90.871323">F1</text>
+    <text class="txt" x="219.99763" y="127.0746">4</text>
+    <text class="txt" x="219.99963" y="148.96294">0</text>
+    <text class="txt" x="220.00963" y="116.11943">7</text>
+    <text class="txt" x="220.25563" y="138.01376">1</text>
+    <text class="txt" x="230.98763" y="127.0466">5</text>
+    <text class="txt" x="231.00163" y="116.11943">8</text>
+    <text class="txt" x="231.00763" y="138.03377">2</text>
+    <text class="txt" x="231.39963" y="105.17226">/</text>
+    <text class="txt" x="24.386375" y="138.11943">\</text>
+    <text class="txt" x="24.570374" y="116.16343">q</text>
+    <text class="txt" x="241.98363" y="127.0666">6</text>
+    <text class="txt" x="242.00363" y="116.11943">9</text>
+    <text class="txt" x="242.02364" y="138.01376">3</text>
+    <text class="txt" x="242.04562" y="105.88425">*</text>
+    <text class="txt" x="242.60764" y="148.94695">.</text>
+    <text class="txt" x="253.00363" y="121.57701">+</text>
+    <text class="txt" x="253.49963" y="104.81626">-</text>
+    <text class="txt" x="29.856377" y="127.12514">a</text>
+    <text class="txt" x="30.996376" y="105.13972">2</text>
+    <text class="txt" x="32.089588" y="90.891327">F2</text>
+    <text class="txt" x="34.990376" y="138.11943">z</text>
+    <text class="txt" x="35.274372" y="116.11943">w</text>
+    <text class="txt" x="41.026375" y="127.11914">s</text>
+    <text class="txt" x="42.012375" y="105.11971">3</text>
+    <text class="txt" x="43.274151" y="90.871323">F3</text>
+    <text class="txt" x="45.960373" y="138.11943">x</text>
+    <text class="txt" x="46.946373" y="116.11943">e</text>
+    <text class="txt" x="51.600368" y="127.11914">d</text>
+    <text class="txt" x="52.98637" y="105.12772">4</text>
+    <text class="txt" x="54.20015" y="90.879326">F4</text>
+    <text class="txt" x="56.808369" y="138.11943">c</text>
+    <text class="txt" x="57.724369" y="116.11943">r</text>
+    <text class="txt" x="6.9743738" y="90.851326">Esc</text>
+    <text class="txt" x="62.946369" y="127.11914">f</text>
+    <text class="txt" x="63.976372" y="105.09972">5</text>
+    <text class="txt" x="67.932381" y="138.11943">v</text>
+    <text class="txt" x="69.022377" y="116.11943">t</text>
+    <text class="txt" x="73.70237" y="127.11914">g</text>
+    <text class="txt" x="74.563438" y="90.851326">F5</text>
+    <text class="txt" x="74.972366" y="105.11971">6</text>
+    <text class="txt" x="78.746376" y="138.11943">b</text>
+    <text class="txt" x="80.000374" y="116.11943">y</text>
+    <text class="txt" x="84.652374" y="127.11914">h</text>
+    <text class="txt" x="85.543442" y="90.871323">F6</text>
+    <text class="txt" x="85.998375" y="105.11971">7</text>
+    <text class="txt" x="89.612381" y="138.11943">n</text>
+    <text class="txt" x="9.394166" y="105.56745">`</text>
+    <text class="txt" x="90.672379" y="116.09943">u</text>
+    <text class="txt" x="96.722" y="90.871323">F7</text>
+    <text class="txt" x="96.859161" y="127.11914">j</text>
+    <text class="txt" x="96.990379" y="105.11971">8</text>
+    <text class="txtsm" x="10.250278" y="115.81643">Tab</text>
+    <text class="txtsm" x="10.562114" y="148.81673">Ctrl</text>
+    <text class="txtsm" x="109.6334" y="148.81673">Alt Gr</text>
+    <text class="txtsm" x="126.80187" y="148.74773">Meta</text>
+    <text class="txtsm" x="142.18617" y="148.74773">Menu</text>
+    <text class="txtsm" x="150.49538" y="104.47172">BackSpace</text>
+    <text class="txtsm" x="152.18031" y="137.82393">Shift</text>
+    <text class="txtsm" x="155.78937" y="115.47143">Return</text>
+    <text class="txtsm" x="158.68011" y="148.81673">Ctrl</text>
+    <text class="txtsm" x="176.90218" y="90.316727">PrtSc</text>
+    <text class="txtsm" x="178.26418" y="115.81643">Del</text>
+    <text class="txtsm" x="178.46367" y="104.80025">Ins</text>
+    <text class="txtsm" x="187.27367" y="104.82653">Home</text>
+    <text class="txtsm" x="188.90868" y="115.81643">End</text>
+    <text class="txtsm" x="198.30067" y="90.30172">Pause</text>
+    <text class="txtsm" x="198.69817" y="104.45526">PgUp</text>
+    <text class="txtsm" x="198.73418" y="115.40243">PgDn</text>
+    <text class="txtsm" x="25.257906" y="148.74773">Meta</text>
+    <text class="txtsm" x="250.25264" y="143.11536">Enter</text>
+    <text class="txtsm" x="41.892845" y="148.81673">Alt</text>
+    <text class="txtsm" x="8.3755484" y="126.47114">CapsLock</text>
+    <text class="txtsm" x="8.809763" y="137.82393">Shift</text>
+    <g transform="translate(-3.3e-6,79.816811)">
+      <text class="txtsm" x="187.84666" y="9.0568609">Scroll</text>
+      <text class="txtsm" x="188.26367" y="12.050963">Lock</text>
+    </g>
+    <g transform="translate(-3.3e-6,79.113221)">
+      <text class="txtsm" x="217.65013" y="24.258986">Num</text>
+      <text class="txtsm" x="217.79713" y="27.253088">Lock</text>
+    </g>
+  </g>
+  <g id="g_shift" transform="translate(270.1973,-79.113186)">
+    <path class="box key_shift_RETURN" d="m 153.0825,109.69157 v 9.9999 h 5.04982 v 10.99985 h 9.9999 v -10.99985 -9.9999 z" />
+    <rect class="box key_shift_0" width="10" height="10" x="115.13238" y="98.691719" />
+    <rect class="box key_shift_1" width="10" height="10" x="16.132374" y="98.691719" />
+    <rect class="box key_shift_102ND" width="10" height="10" x="20.132376" y="131.69142" />
+    <rect class="box key_shift_2" width="10" height="10" x="27.132376" y="98.691719" />
+    <rect class="box key_shift_3" width="10" height="10" x="38.132374" y="98.691719" />
+    <rect class="box key_shift_4" width="10" height="10" x="49.13237" y="98.691719" />
+    <rect class="box key_shift_5" width="10" height="10" x="60.13237" y="98.691719" />
+    <rect class="box key_shift_6" width="10" height="10" x="71.13237" y="98.691719" />
+    <rect class="box key_shift_7" width="10" height="10" x="82.132378" y="98.691719" />
+    <rect class="box key_shift_8" width="10" height="10" x="93.132378" y="98.691719" />
+    <rect class="box key_shift_9" width="10" height="10" x="104.13238" y="98.691719" />
+    <rect class="box key_shift_A" width="10" height="10" x="26.132376" y="120.69143" />
+    <rect class="box key_shift_APOSTROPHE" width="10" height="10" x="136.13239" y="120.69143" />
+    <rect class="box key_shift_B" width="10" height="10" x="75.132378" y="131.69142" />
+    <rect class="box key_shift_BACKSLASH" width="10" height="10" x="147.13239" y="120.69143" />
+    <rect class="box key_shift_BACKSPACE" width="20.153692" height="10" x="147.97853" y="98.691719" />
+    <rect class="box key_shift_C" width="10" height="10" x="53.13237" y="131.69142" />
+    <rect class="box key_shift_CAPSLOCK" width="19.932348" height="10" x="5.1323733" y="120.69114" />
+    <rect class="box key_shift_COMMA" width="10" height="10" x="108.3306" y="131.69142" />
+    <rect class="box key_shift_D" width="10" height="10" x="48.13237" y="120.69143" />
+    <rect class="box key_shift_DELETE" width="10" height="10" x="175.61017" y="109.69143" />
+    <rect class="box key_shift_DOT" width="10" height="10" x="119.63737" y="131.69142" />
+    <rect class="box key_shift_DOWN" width="10" height="10" x="186.61017" y="142.6386" />
+    <rect class="box key_shift_E" width="10" height="10" x="43.132374" y="109.69143" />
+    <rect class="box key_shift_END" width="10" height="10" x="186.61017" y="109.69143" />
+    <rect class="box key_shift_EQUAL" width="10" height="10" x="137.13239" y="98.691719" />
+    <rect class="box key_shift_ESC" width="10" height="10" x="5.1323733" y="84.443329" />
+    <rect class="box key_shift_F" width="10" height="10" x="59.13237" y="120.69143" />
+    <rect class="box key_shift_F1" width="10" height="10" x="18.361586" y="84.443329" />
+    <rect class="box key_shift_F10" width="10" height="10" x="136.00758" y="84.443329" />
+    <rect class="box key_shift_F11" width="10" height="10" x="147.00035" y="84.443329" />
+    <rect class="box key_shift_F12" width="10" height="10" x="158.13222" y="84.443329" />
+    <rect class="box key_shift_F2" width="10" height="10" x="29.361586" y="84.443329" />
+    <rect class="box key_shift_F3" width="10" height="10" x="40.536148" y="84.443329" />
+    <rect class="box key_shift_F4" width="10" height="10" x="51.536148" y="84.443329" />
+    <rect class="box key_shift_F5" width="10" height="10" x="71.825439" y="84.443329" />
+    <rect class="box key_shift_F6" width="10" height="10" x="82.825439" y="84.443329" />
+    <rect class="box key_shift_F7" width="10" height="10" x="94" y="84.443329" />
+    <rect class="box key_shift_F8" width="10" height="10" x="105" y="84.443329" />
+    <rect class="box key_shift_F9" width="10" height="10" x="124.8258" y="84.443329" />
+    <rect class="box key_shift_G" width="10" height="10" x="70.13237" y="120.69143" />
+    <rect class="box key_shift_GRAVE" width="10" height="10" x="5.1323733" y="98.691719" />
+    <rect class="box key_shift_H" width="10" height="10" x="81.132378" y="120.69143" />
+    <rect class="box key_shift_HOME" width="10" height="10" x="186.61017" y="98.770531" />
+    <rect class="box key_shift_I" width="10" height="10" x="98.132378" y="109.69143" />
+    <rect class="box key_shift_INSERT" width="10" height="10" x="175.61017" y="98.744255" />
+    <rect class="box key_shift_J" width="10" height="10" x="92.132378" y="120.69143" />
+    <rect class="box key_shift_K" width="10" height="10" x="103.13238" y="120.69143" />
+    <rect class="box key_shift_KP0" width="21.083063" height="10" x="216.14363" y="142.53294" />
+    <rect class="box key_shift_KP1" width="10" height="10" x="216.14363" y="131.58577" />
+    <rect class="box key_shift_KP2" width="10" height="10" x="227.14363" y="131.58577" />
+    <rect class="box key_shift_KP3" width="10" height="10" x="238.14363" y="131.58577" />
+    <rect class="box key_shift_KP4" width="10" height="10" x="216.14363" y="120.6386" />
+    <rect class="box key_shift_KP5" width="10" height="10" x="227.14363" y="120.6386" />
+    <rect class="box key_shift_KP6" width="10" height="10" x="238.14363" y="120.6386" />
+    <rect class="box key_shift_KP7" width="10" height="10" x="216.14363" y="109.69143" />
+    <rect class="box key_shift_KP8" width="10" height="10" x="227.14363" y="109.69143" />
+    <rect class="box key_shift_KP9" width="10" height="10" x="238.14363" y="109.69143" />
+    <rect class="box key_shift_KPASTERISK" width="10" height="10" x="238.14363" y="98.744255" />
+    <rect class="box key_shift_KPDOT" width="10" height="10" x="238.14363" y="142.53294" />
+    <rect class="box key_shift_KPENTER" width="10" height="20.947174" x="249.14363" y="131.58577" />
+    <rect class="box key_shift_KPMINUS" width="10" height="10" x="249.14363" y="98.744255" />
+    <rect class="box key_shift_KPPLUS" width="10" height="20.94717" x="249.14363" y="109.69143" />
+    <rect class="box key_shift_KPSLASH" width="10" height="10" x="227.14363" y="98.744255" />
+    <rect class="box key_shift_L" width="10" height="10" x="114.13238" y="120.69143" />
+    <rect class="box key_shift_LEFT" width="10" height="10" x="175.61017" y="142.6386" />
+    <rect class="box key_shift_LEFTALT" width="13.831776" height="10" x="36.830956" y="142.69171" />
+    <rect class="box key_shift_LEFTBRACE" width="10" height="10" x="131.13239" y="109.69143" />
+    <rect class="box key_shift_LEFTCTRL" width="15.779481" height="10" x="5.1323733" y="142.69171" />
+    <rect class="box key_shift_LEFTMETA" width="13.831776" height="10" x="21.955517" y="142.69171" />
+    <rect class="box key_shift_LEFTSHIFT" width="13.831776" height="10" x="5.1323733" y="131.69142" />
+    <rect class="box key_shift_M" width="10" height="10" x="96.93705" y="131.72557" />
+    <rect class="box key_shift_MENU" width="13.831776" height="10" x="139.34879" y="142.69171" />
+    <rect class="box key_shift_MINUS" width="10" height="10" x="126.13238" y="98.691719" />
+    <rect class="box key_shift_N" width="10" height="10" x="86.132378" y="131.69142" />
+    <rect class="box key_shift_NUMLOCK" width="10" height="10" x="216.14363" y="98.744255" />
+    <rect class="box key_shift_O" width="10" height="10" x="109.13238" y="109.69143" />
+    <rect class="box key_shift_P" width="10" height="10" x="120.13238" y="109.69143" />
+    <rect class="box key_shift_PAGEDOWN" width="10.000003" height="10.000003" x="197.61017" y="109.69143" />
+    <rect class="box key_shift_PAGEUP" width="10" height="10" x="197.61017" y="98.744255" />
+    <rect class="box key_shift_PAUSE" width="10" height="10" x="197.61017" y="84.24572" />
+    <rect class="box key_shift_Q" width="10" height="10" x="21.132374" y="109.69143" />
+    <rect class="box key_shift_R" width="10" height="10" x="54.13237" y="109.69143" />
+    <rect class="box key_shift_RIGHT" width="10" height="10" x="197.61017" y="142.6386" />
+    <rect class="box key_shift_RIGHTALT" width="15.779481" height="10" x="105.70966" y="142.69171" />
+    <rect class="box key_shift_RIGHTBRACE" width="10" height="10" x="142.13239" y="109.69143" />
+    <rect class="box key_shift_RIGHTCTRL" width="13.831776" height="10" x="154.22423" y="142.69171" />
+    <rect class="box key_shift_RIGHTMETA" width="15.779481" height="10" x="122.52563" y="142.69171" />
+    <rect class="box key_shift_RIGHTSHIFT" width="25.426792" height="10" x="142.70541" y="131.69142" />
+    <rect class="box key_shift_S" width="10" height="10" x="37.132374" y="120.69143" />
+    <rect class="box key_shift_SCROLLLOCK" width="10" height="10" x="186.61017" y="84.24572" />
+    <rect class="box key_shift_SEMICOLON" width="10" height="10" x="125.13238" y="120.69143" />
+    <rect class="box key_shift_SLASH" width="10" height="10" x="131.45067" y="131.69142" />
+    <rect class="box key_shift_SPACE" width="52.925739" height="10" x="51.70639" y="142.69171" />
+    <rect class="box key_shift_SYSRQ" width="10" height="10" x="175.61017" y="84.24572" />
+    <rect class="box key_shift_T" width="10" height="10" x="65.132378" y="109.69143" />
+    <rect class="box key_shift_TAB" width="15.05681" height="10" x="5.1323733" y="109.69143" />
+    <rect class="box key_shift_U" width="10" height="10" x="87.132378" y="109.69143" />
+    <rect class="box key_shift_UP" width="10" height="10" x="186.61017" y="131.69142" />
+    <rect class="box key_shift_V" width="10" height="10" x="64.132378" y="131.69142" />
+    <rect class="box key_shift_W" width="10" height="10" x="32.132374" y="109.69143" />
+    <rect class="box key_shift_X" width="10" height="10" x="42.132374" y="131.69142" />
+    <rect class="box key_shift_Y" width="10" height="10" x="76.132378" y="109.69143" />
+    <rect class="box key_shift_Z" width="10" height="10" x="31.132376" y="131.69142" />
+    <text class="txt" x="100.12305" y="138.11943">M</text>
+    <text class="txt" x="102.45638" y="116.11943">I</text>
+    <text class="txt" x="106.70038" y="127.11943">K</text>
+    <text class="txt" x="107.724" y="90.871323">F8</text>
+    <text class="txt" x="107.99238" y="105.11971">(</text>
+    <text class="txt" x="112.57038" y="116.12143">O</text>
+    <text class="txt" x="112.86459" y="137.82793">&lt;</text>
+    <text class="txt" x="117.94038" y="127.11914">L</text>
+    <text class="txt" x="118.98838" y="105.12172">)</text>
+    <text class="txt" x="123.83038" y="116.11943">P</text>
+    <text class="txt" x="124.10136" y="137.84793">&gt;</text>
+    <text class="txt" x="127.5538" y="90.871323">F9</text>
+    <text class="txt" x="129.68237" y="126.53313">:</text>
+    <text class="txt" x="130.48837" y="104.76372">_</text>
+    <text class="txt" x="135.36438" y="115.80343">{</text>
+    <text class="txt" x="135.70667" y="138.11943">?</text>
+    <text class="txt" x="137.58559" y="90.873322">F10</text>
+    <text class="txt" x="140.68239" y="127.11914">@</text>
+    <text class="txt" x="140.99239" y="105.09972">+</text>
+    <text class="txt" x="146.58438" y="115.80343">}</text>
+    <text class="txt" x="148.91435" y="90.871323">F11</text>
+    <text class="txt" x="150.84239" y="127.11943">~</text>
+    <text class="txt" x="159.71622" y="90.891327">F12</text>
+    <text class="txt" x="178.62016" y="149.1586" >←</text>
+    <text class="txt" x="178.62016" y="149.1586">←</text>
+    <text class="txt" x="189.61017" y="138.22142">↑</text>
+    <text class="txt" x="189.61017" y="149.14859" >↓</text>
+    <text class="txt" x="189.61017" y="149.14859">↓</text>
+    <text class="txt" x="20.244373" y="105.11971">!</text>
+    <text class="txt" x="200.60017" y="149.1586">→</text>
+    <text class="txt" x="21.419588" y="90.871323">F1</text>
+    <text class="txt" x="219.99763" y="127.0746">4</text>
+    <text class="txt" x="219.99963" y="148.96294">0</text>
+    <text class="txt" x="220.00963" y="116.11943">7</text>
+    <text class="txt" x="220.25563" y="138.01376">1</text>
+    <text class="txt" x="230.98763" y="127.0466">5</text>
+    <text class="txt" x="231.00163" y="116.11943">8</text>
+    <text class="txt" x="231.00763" y="138.03377">2</text>
+    <text class="txt" x="231.39963" y="105.17226">/</text>
+    <text class="txt" x="24.386375" y="138.11943">|</text>
+    <text class="txt" x="24.570374" y="116.16343">Q</text>
+    <text class="txt" x="241.98363" y="127.0666">6</text>
+    <text class="txt" x="242.00363" y="116.11943">9</text>
+    <text class="txt" x="242.02364" y="138.01376">3</text>
+    <text class="txt" x="242.04562" y="105.88425">*</text>
+    <text class="txt" x="242.60764" y="148.94695">.</text>
+    <text class="txt" x="253.00363" y="121.57701">+</text>
+    <text class="txt" x="253.49963" y="104.81626">-</text>
+    <text class="txt" x="29.856377" y="127.12514">A</text>
+    <text class="txt" x="30.996376" y="105.13972">"</text>
+    <text class="txt" x="32.089588" y="90.891327">F2</text>
+    <text class="txt" x="34.990376" y="138.11943">Z</text>
+    <text class="txt" x="35.274372" y="116.11943">W</text>
+    <text class="txt" x="41.026375" y="127.11914">S</text>
+    <text class="txt" x="42.012375" y="105.11971">£</text>
+    <text class="txt" x="43.274151" y="90.871323">F3</text>
+    <text class="txt" x="45.960373" y="138.11943">X</text>
+    <text class="txt" x="46.946373" y="116.11943">E</text>
+    <text class="txt" x="51.600368" y="127.11914">D</text>
+    <text class="txt" x="52.98637" y="105.12772">$</text>
+    <text class="txt" x="54.20015" y="90.879326">F4</text>
+    <text class="txt" x="56.808369" y="138.11943">C</text>
+    <text class="txt" x="57.724369" y="116.11943">R</text>
+    <text class="txt" x="6.9743738" y="90.851326">Esc</text>
+    <text class="txt" x="62.946369" y="127.11914">F</text>
+    <text class="txt" x="63.976372" y="105.09972">%</text>
+    <text class="txt" x="67.932381" y="138.11943">V</text>
+    <text class="txt" x="69.022377" y="116.11943">T</text>
+    <text class="txt" x="73.70237" y="127.11914">G</text>
+    <text class="txt" x="74.563438" y="90.851326">F5</text>
+    <text class="txt" x="74.972366" y="105.11971">^</text>
+    <text class="txt" x="78.746376" y="138.11943">B</text>
+    <text class="txt" x="80.000374" y="116.11943">Y</text>
+    <text class="txt" x="84.652374" y="127.11914">H</text>
+    <text class="txt" x="85.543442" y="90.871323">F6</text>
+    <text class="txt" x="85.998375" y="105.11971">&amp;</text>
+    <text class="txt" x="89.612381" y="138.11943">N</text>
+    <text class="txt" x="9.394166" y="105.56745">¬</text>
+    <text class="txt" x="90.672379" y="116.09943">U</text>
+    <text class="txt" x="96.722" y="90.871323">F7</text>
+    <text class="txt" x="96.859161" y="127.11914">J</text>
+    <text class="txt" x="96.990379" y="105.11971">*</text>
+    <text class="txtsm" x="10.250278" y="115.81643">Tab</text>
+    <text class="txtsm" x="10.562114" y="148.81673">Ctrl</text>
+    <text class="txtsm" x="109.6334" y="148.81673">Alt Gr</text>
+    <text class="txtsm" x="126.80187" y="148.74773">Meta</text>
+    <text class="txtsm" x="142.18617" y="148.74773">Menu</text>
+    <text class="txtsm" x="150.49538" y="104.47172">BackSpace</text>
+    <text class="txtsm" x="152.18031" y="137.82393">Shift</text>
+    <text class="txtsm" x="155.78937" y="115.47143">Return</text>
+    <text class="txtsm" x="158.68011" y="148.81673">Ctrl</text>
+    <text class="txtsm" x="176.90218" y="90.316727">PrtSc</text>
+    <text class="txtsm" x="178.26418" y="115.81643">Del</text>
+    <text class="txtsm" x="178.46367" y="104.80025">Ins</text>
+    <text class="txtsm" x="187.27367" y="104.82653" >Home</text>
+    <text class="txtsm" x="187.27367" y="104.82653">Home</text>
+    <text class="txtsm" x="188.90868" y="115.81643">End</text>
+    <text class="txtsm" x="198.30067" y="90.30172">Pause</text>
+    <text class="txtsm" x="198.69817" y="104.45526" >PgUp</text>
+    <text class="txtsm" x="198.69817" y="104.45526">PgUp</text>
+    <text class="txtsm" x="198.73418" y="115.40243">PgDn</text>
+    <text class="txtsm" x="25.257906" y="148.74773">Meta</text>
+    <text class="txtsm" x="250.25264" y="143.11536">Enter</text>
+    <text class="txtsm" x="41.892845" y="148.81673">Alt</text>
+    <text class="txtsm" x="8.3755484" y="126.47114">CapsLock</text>
+    <text class="txtsm" x="8.809763" y="137.82393">Shift</text>
+    <g id="g26815" transform="translate(-3.3e-6,79.816811)">
+      <text class="txtsm" x="187.84666" y="9.0568609">Scroll</text>
+      <text class="txtsm" x="188.26367" y="12.050963">Lock</text>
+    </g>
+    <g id="g26821" transform="translate(-3.3e-6,79.113221)">
+      <text class="txtsm" x="217.65013" y="24.258986">Num</text>
+      <text class="txtsm" x="217.79713" y="27.253088">Lock</text>
+    </g>
+  </g>
+</svg>

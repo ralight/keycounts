@@ -1,7 +1,7 @@
   </style>
   <g id="g1943" transform="translate(-2.62e-4,2.444e-4)">
     <g id="g19998">
-      <path class="box key_RETURN" d="m 153.0825,30.578134 v 9.999906 h 5.04982 v 10.999845 h 9.9999 V 40.57804 30.578134 Z" />
+      <path class="box key_ENTER" d="m 153.0825,30.578134 v 9.999906 h 5.04982 v 10.999845 h 9.9999 V 40.57804 30.578134 Z" />
       <rect class="box key_0" id="box_0" width="10" height="10" x="115.13238" y="19.578281" />
       <rect class="box key_0" width="10" height="10" x="115.13238" y="19.578281" />
       <rect class="box key_1" id="box_1" width="10" height="10" x="16.132374" y="19.578281" />
@@ -221,7 +221,7 @@
     </g>
   </g>
   <g id="g_ctrl" transform="translate(-2.62e-4,2.444e-4)">
-    <path class="box key_ctrl_RETURN" d="m 153.0825,109.69157 v 9.9999 h 5.04982 v 10.99985 h 9.9999 v -10.99985 -9.9999 z" />
+    <path class="box key_ctrl_ENTER" d="m 153.0825,109.69157 v 9.9999 h 5.04982 v 10.99985 h 9.9999 v -10.99985 -9.9999 z" />
     <rect class="box key_ctrl_0" width="10" height="10" x="115.13238" y="98.691719" />
     <rect class="box key_ctrl_1" width="10" height="10" x="16.132374" y="98.691719" />
     <rect class="box key_ctrl_102ND" width="10" height="10" x="20.132376" y="131.69142" />
@@ -438,7 +438,7 @@
     </g>
   </g>
   <g id="g_alt" transform="translate(-2.62e-4,81.237752)">
-    <path class="box key_alt_RETURN" d="m 153.0825,109.69157 v 9.9999 h 5.04982 v 10.99985 h 9.9999 v -10.99985 -9.9999 z" />
+    <path class="box key_alt_ENTER" d="m 153.0825,109.69157 v 9.9999 h 5.04982 v 10.99985 h 9.9999 v -10.99985 -9.9999 z" />
     <rect class="box key_alt_0" width="10" height="10" x="115.13238" y="98.691719" />
     <rect class="box key_alt_1" width="10" height="10" x="16.132374" y="98.691719" />
     <rect class="box key_alt_102ND" width="10" height="10" x="20.132376" y="131.69142" />
@@ -655,7 +655,7 @@
     </g>
   </g>
   <g id="g_ctrl_shift" transform="translate(270.1973,2.444e-4)">
-    <path class="box key_ctrl_shift_RETURN" d="m 153.0825,109.69157 v 9.9999 h 5.04982 v 10.99985 h 9.9999 v -10.99985 -9.9999 z" />
+    <path class="box key_ctrl_shift_ENTER" d="m 153.0825,109.69157 v 9.9999 h 5.04982 v 10.99985 h 9.9999 v -10.99985 -9.9999 z" />
     <rect class="box key_ctrl_shift_0" width="10" height="10" x="115.13238" y="98.691719" />
     <rect class="box key_ctrl_shift_1" width="10" height="10" x="16.132374" y="98.691719" />
     <rect class="box key_ctrl_shift_102ND" width="10" height="10" x="20.132376" y="131.69142" />
@@ -872,7 +872,7 @@
     </g>
   </g>
   <g id="g_meta" transform="translate(270.1973,81.237752)">
-    <path class="box key_meta_RETURN" d="m 153.0825,109.69157 v 9.9999 h 5.04982 v 10.99985 h 9.9999 v -10.99985 -9.9999 z" />
+    <path class="box key_meta_ENTER" d="m 153.0825,109.69157 v 9.9999 h 5.04982 v 10.99985 h 9.9999 v -10.99985 -9.9999 z" />
     <rect class="box key_meta_0" width="10" height="10" x="115.13238" y="98.691719" />
     <rect class="box key_meta_1" width="10" height="10" x="16.132374" y="98.691719" />
     <rect class="box key_meta_102ND" width="10" height="10" x="20.132376" y="131.69142" />
@@ -1089,7 +1089,7 @@
     </g>
   </g>
   <g id="g_shift" transform="translate(270.1973,-79.113186)">
-    <path class="box key_shift_RETURN" d="m 153.0825,109.69157 v 9.9999 h 5.04982 v 10.99985 h 9.9999 v -10.99985 -9.9999 z" />
+    <path class="box key_shift_ENTER" d="m 153.0825,109.69157 v 9.9999 h 5.04982 v 10.99985 h 9.9999 v -10.99985 -9.9999 z" />
     <rect class="box key_shift_0" width="10" height="10" x="115.13238" y="98.691719" />
     <rect class="box key_shift_1" width="10" height="10" x="16.132374" y="98.691719" />
     <rect class="box key_shift_102ND" width="10" height="10" x="20.132376" y="131.69142" />

@@ -1217,10 +1217,8 @@
     <text class="txt" x="148.91435" y="90.871323">F11</text>
     <text class="txt" x="150.84239" y="127.11943">~</text>
     <text class="txt" x="159.71622" y="90.891327">F12</text>
-    <text class="txt" x="178.62016" y="149.1586" >←</text>
     <text class="txt" x="178.62016" y="149.1586">←</text>
     <text class="txt" x="189.61017" y="138.22142">↑</text>
-    <text class="txt" x="189.61017" y="149.14859" >↓</text>
     <text class="txt" x="189.61017" y="149.14859">↓</text>
     <text class="txt" x="20.244373" y="105.11971">!</text>
     <text class="txt" x="200.60017" y="149.1586">→</text>
@@ -1288,11 +1286,9 @@
     <text class="txtsm" x="176.90218" y="90.316727">PrtSc</text>
     <text class="txtsm" x="178.26418" y="115.81643">Del</text>
     <text class="txtsm" x="178.46367" y="104.80025">Ins</text>
-    <text class="txtsm" x="187.27367" y="104.82653" >Home</text>
     <text class="txtsm" x="187.27367" y="104.82653">Home</text>
     <text class="txtsm" x="188.90868" y="115.81643">End</text>
     <text class="txtsm" x="198.30067" y="90.30172">Pause</text>
-    <text class="txtsm" x="198.69817" y="104.45526" >PgUp</text>
     <text class="txtsm" x="198.69817" y="104.45526">PgUp</text>
     <text class="txtsm" x="198.73418" y="115.40243">PgDn</text>
     <text class="txtsm" x="25.257906" y="148.74773">Meta</text>

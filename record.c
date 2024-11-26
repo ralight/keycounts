@@ -78,7 +78,7 @@ static void open_input_devices_proc(int epollfd)
 		if(!strncmp(buf, "H: Handlers=", len)){
 			char *token = NULL;
 			bool kbd = false;
-			int event = -1;
+			char *event = NULL;
 
 			buf[strlen(buf)-1] = '\0';
 			token = strtok(buf+len, " ");
@@ -86,12 +86,12 @@ static void open_input_devices_proc(int epollfd)
 				if(!strcmp(token, "kbd")){
 					kbd = true;
 				}else if(!strncmp(token, "event", strlen("event"))){
-					event = token[strlen("event")]-'0';
+					event = strdup(token);
 				}
 				token = strtok(NULL, " ");
 			}
-			if(kbd && event != -1){
-				snprintf(buf, sizeof(buf), "/dev/input/event%d", event);
+			if(kbd && event != NULL){
+				snprintf(buf, sizeof(buf), "/dev/input/%s", event);
 				add_to_epoll(epollfd, buf);
 				have_kbd = true;
 			}

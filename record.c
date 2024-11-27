@@ -86,7 +86,7 @@ static void open_input_devices_proc(int epollfd)
 				if(!strcmp(token, "kbd")){
 					kbd = true;
 				}else if(!strncmp(token, "event", strlen("event"))){
-					event = token[strlen("event")]-'0';
+					event = atoi(&token[strlen("event")]);
 				}
 				token = strtok(NULL, " ");
 			}

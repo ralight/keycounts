@@ -55,10 +55,19 @@ struct modifier_outputs mod_outputs[] =
 };
 
 
-static void print_key_style(int code, double mult, const char *modifier)
+static void print_key_style_log(int code, double mult, const char *modifier)
 {
 	if(counts[code] > 0){
 		int v = (int)(round(log((double)counts[code]+1.0)*mult)) - 1;
+		printf(".key_%s%s { fill:%s } /* %d */\n", modifier, map[code%KEY_MAX], colormap[v], counts[code]);
+	}
+}
+
+
+static void print_key_style_linear(int code, int count_max, const char *modifier)
+{
+	if(counts[code] > 0){
+		int v = 9*counts[code]/count_max;
 		printf(".key_%s%s { fill:%s } /* %d */\n", modifier, map[code%KEY_MAX], colormap[v], counts[code]);
 	}
 }
@@ -92,7 +101,7 @@ static void print_file(FILE *fptr)
 }
 
 
-void output_image(const char *datafile, const char *layout)
+void output_image(const char *datafile, const char *layout, bool logscale)
 {
 	FILE *header_file;
 	FILE *footer_file;
@@ -125,7 +134,11 @@ void output_image(const char *datafile, const char *layout)
 
 	for(int i=0; i<sizeof(mod_outputs)/sizeof(struct modifier_outputs); i++){
 		for(int j=mod_outputs[i].range_start*KEY_CNT; j<(mod_outputs[i].range_start+1)*KEY_CNT; j++){
-			print_key_style(j, mult, mod_outputs[i].prefix);
+			if(logscale){
+				print_key_style_log(j, mult, mod_outputs[i].prefix);
+			}else{
+				print_key_style_linear(j, count_max, mod_outputs[i].prefix);
+			}
 		}
 	}
 

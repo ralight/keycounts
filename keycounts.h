@@ -31,6 +31,6 @@ void merge_counts(const char *datafile, const char *newfile);
 
 void print_usage(void);
 
-void output_image(const char *datafile, const char *layout);
+void output_image(const char *datafile, const char *layout, bool logscale);
 
 #endif

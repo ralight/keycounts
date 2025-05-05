@@ -1,6 +1,6 @@
 name: keycounts
 base: core22
-version: '0.1'
+version: '0.2'
 summary: Track and report keypress counts
 description: |
   This utility monitors all keyboard inputs attached to a Linux computer and

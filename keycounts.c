@@ -36,6 +36,7 @@ int main(int argc, char *argv[])
 	const char *datafile = NULL;
 	const char *layout = NULL;
 	bool verbose = false;
+	bool logscale = true;
 
 	for(int i=2; i<argc; i++){
 		if(!strcmp(argv[i], "-f")){
@@ -54,6 +55,8 @@ int main(int argc, char *argv[])
 				fprintf(stderr, "Error: '-l' requires a layout.\n");
 				exit(1);
 			}
+		}else if(!strcmp(argv[i], "--linear")){
+			logscale = false;
 		}else if(!strcmp(argv[i], "-v")){
 			verbose = true;
 		}
@@ -71,7 +74,7 @@ int main(int argc, char *argv[])
 			fprintf(stderr, "Error: Keyboard layout cannot contain '/'.\n");
 			return 1;
 		}
-		output_image(datafile, layout);
+		output_image(datafile, layout, logscale);
 	}else{
 		print_usage();
 	}

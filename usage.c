@@ -28,4 +28,5 @@ void print_usage(void)
 	printf("                                             # figuring out which key is which.\n");
 	printf("keycounts report [-f data-file]              # report keypress statistics from data-file\n");
 	printf("keycounts image  [-f data-file] [-l layout]  # print svg keyboard representation of keypresses to stdout\n");
+	printf("                 [--linear]                  # with log scale by default.\n");
 }

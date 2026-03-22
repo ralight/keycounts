@@ -1,5 +1,5 @@
 name: keycounts
-base: core22
+base: core24
 version: '0.2'
 summary: Track and report keypress counts
 description: |
